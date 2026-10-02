@@ -1,0 +1,50 @@
+[
+  {
+    "version": "v1-lora-full_ft",
+    "metrics": {
+      "avg_keyword_overlap": 0.05
+    },
+    "stage": "rejected",
+    "registered_at": "2026-10-02 18:16:52"
+  },
+  {
+    "version": "v2-lora-qlora",
+    "metrics": {
+      "avg_keyword_overlap": 1.0
+    },
+    "stage": "staging",
+    "registered_at": "2026-10-02 18:16:52"
+  },
+  {
+    "version": "v1-lora-full_ft",
+    "metrics": {
+      "avg_keyword_overlap": 0.05
+    },
+    "stage": "rejected",
+    "registered_at": "2026-10-02 20:21:28"
+  },
+  {
+    "version": "v2-lora-qlora",
+    "metrics": {
+      "avg_keyword_overlap": 1.0
+    },
+    "stage": "staging",
+    "registered_at": "2026-10-02 20:21:28"
+  },
+  {
+    "version": "v1-lora-full_ft",
+    "metrics": {
+      "avg_keyword_overlap": 0.05
+    },
+    "stage": "rejected",
+    "registered_at": "2026-10-02 20:43:45"
+  },
+  {
+    "version": "v2-lora-qlora",
+    "metrics": {
+      "avg_keyword_overlap": 1.0
+    },
+    "stage": "staging",
+    "registered_at": "2026-10-02 20:43:45"
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "problem": "Alex has 4 groups of apples, with 6 apples in each group. Alex gives away 8 apples. How many apples does Alex have left?",
+    "correct_solution": "Step 1: Alex starts with 4 groups of 6 apples, so the total is 4 x 6 = 24 apples.\nStep 2: Alex gives away 8 apples, so 24 - 8 = 16 apples.\n#### 16",
+    "wrong_solution": "Step 1: Alex has 4 groups of 6 apples, so the total is 4 x 6 = 24 apples.\nStep 2: Alex has 24 apples left.\n#### 24",
+    "final_answer": 16
+  },
+  {
+    "problem": "Jordan has 2 groups of coins, with 11 coins in each group. Jordan gives away 3 coins. How many coins does Jordan have left?",
+    "correct_solution": "Step 1: Jordan starts with 2 groups of 11 coins, so the total is 2 x 11 = 22 coins.\nStep 2: Jordan gives away 3 coins, so 22 - 3 = 19 coins.\n#### 19",
+    "wrong_solution": "Step 1: Jordan has 2 groups of 11 coins, so the total is 2 x 11 = 22 coins.\nStep 2: Jordan has 22 coins left.\n#### 22",
+    "final_answer": 19
+  },
+  {
+    "problem": "Morgan has 2 groups of apples, with 4 apples in each group. Morgan gives away 2 apples. How many apples does Morgan have left?",
+    "correct_solution": "Step 1: Morgan starts with 2 groups of 4 apples, so the total is 2 x 4 = 8 apples.\nStep 2: Morgan gives away 2 apples, so 8 - 2 = 6 apples.\n#### 6",
+    "wrong_solution": "Step 1: Morgan has 2 groups of 4 apples, so the total is 2 x 4 = 8 apples.\nStep 2: Morgan has 8 apples left.\n#### 8",
+    "final_answer": 6
+  },
+  {
+    "problem": "Priya has 6 groups of marbles, with 3 marbles in each group. Priya gives away 7 marbles. How many marbles does Priya have left?",
+    "correct_solution": "Step 1: Priya starts with 6 groups of 3 marbles, so the total is 6 x 3 = 18 marbles.\nStep 2: Priya gives away 7 marbles, so 18 - 7 = 11 marbles.\n#### 11",
+    "wrong_solution": "Step 1: Priya has 6 groups of 3 marbles, so the total is 6 x 3 = 18 marbles.\nStep 2: Priya has 18 marbles left.\n#### 18",
+    "final_answer": 11
+  },
+  {
+    "problem": "Morgan has 5 groups of boxes of pens, with 12 boxes of pens in each group. Morgan gives away 18 boxes of pens. How many boxes of pens does Morgan have left?",
+    "correct_solution": "Step 1: Morgan starts with 5 groups of 12 boxes of pens, so the total is 5 x 12 = 60 boxes of pens.\nStep 2: Morgan gives away 18 boxes of pens, so 60 - 18 = 42 boxes of pens.\n#### 42",
+    "wrong_solution": "Step 1: Morgan has 5 groups of 12 boxes of pens, so the total is 5 x 12 = 60 boxes of pens.\nStep 2: Morgan has 60 boxes of pens left.\n#### 60",
+    "final_answer": 42
+  },
+  {
+    "problem": "Sarah has 5 groups of boxes of pens, with 8 boxes of pens in each group. Sarah gives away 18 boxes of pens. How many boxes of pens does Sarah have left?",
+    "correct_solution": "Step 1: Sarah starts with 5 groups of 8 boxes of pens, so the total is 5 x 8 = 40 boxes of pens.\nStep 2: Sarah gives away 18 boxes of pens, so 40 - 18 = 22 boxes of pens.\n#### 22",
+    "wrong_solution": "Step 1: Sarah has 5 groups of 8 boxes of pens, so the total is 5 x 8 = 40 boxes of pens.\nStep 2: Sarah has 40 boxes of pens left.\n#### 40",
+    "final_answer": 22
+  },
+  {
+    "problem": "Jordan has 4 groups of boxes of pens, with 4 boxes of pens in each group. Jordan gives away 2 boxes of pens. How many boxes of pens does Jordan have left?",
+    "correct_solution": "Step 1: Jordan starts with 4 groups of 4 boxes of pens, so the total is 4 x 4 = 16 boxes of pens.\nStep 2: Jordan gives away 2 boxes of pens, so 16 - 2 = 14 boxes of pens.\n#### 14",
+    "wrong_solution": "Step 1: Jordan has 4 groups of 4 boxes of pens, so the total is 4 x 4 = 16 boxes of pens.\nStep 2: Jordan has 16 boxes of pens left.\n#### 16",
+    "final_answer": 14
+  },
+  {
+    "problem": "Morgan has 4 groups of apples, with 8 apples in each group. Morgan gives away 20 apples. How many apples does Morgan have left?",
+    "correct_solution": "Step 1: Morgan starts with 4 groups of 8 apples, so the total is 4 x 8 = 32 apples.\nStep 2: Morgan gives away 20 apples, so 32 - 20 = 12 apples.\n#### 12",
+    "wrong_solution": "Step 1: Morgan has 4 groups of 8 apples, so the total is 4 x 8 = 32 apples.\nStep 2: Morgan has 32 apples left.\n#### 32",
+    "final_answer": 12
+  },
+  {
+    "problem": "Sam has 5 groups of apples, with 11 apples in each group. Sam gives away 8 apples. How many apples does Sam have left?",
+    "correct_solution": "Step 1: Sam starts with 5 groups of 11 apples, so the total is 5 x 11 = 55 apples.\nStep 2: Sam gives away 8 apples, so 55 - 8 = 47 apples.\n#### 47",
+    "wrong_solution": "Step 1: Sam has 5 groups of 11 apples, so the total is 5 x 11 = 55 apples.\nStep 2: Sam has 55 apples left.\n#### 55",
+    "final_answer": 47
+  },
+  {
+    "problem": "Morgan has 6 groups of apples, with 7 apples in each group. Morgan gives away 41 apples. How many apples does Morgan have left?",
+    "correct_solution": "Step 1: Morgan starts with 6 groups of 7 apples, so the total is 6 x 7 = 42 apples.\nStep 2: Morgan gives away 41 apples, so 42 - 41 = 1 apples.\n#### 1",
+    "wrong_solution": "Step 1: Morgan has 6 groups of 7 apples, so the total is 6 x 7 = 42 apples.\nStep 2: Morgan has 42 apples left.\n#### 42",
+    "final_answer": 1
+  },
+  {
+    "problem": "Taylor has 3 groups of marbles, with 4 marbles in each group. Taylor gives away 1 marbles. How many marbles does Taylor have left?",
+    "correct_solution": "Step 1: Taylor starts with 3 groups of 4 marbles, so the total is 3 x 4 = 12 marbles.\nStep 2: Taylor gives away 1 marbles, so 12 - 1 = 11 marbles.\n#### 11",
+    "wrong_solution": "Step 1: Taylor has 3 groups of 4 marbles, so the total is 3 x 4 = 12 marbles.\nStep 2: Taylor has 12 marbles left.\n#### 12",
+    "final_answer": 11
+  },
+  {
+    "problem": "Priya has 2 groups of notebooks, with 6 notebooks in each group. Priya gives away 2 notebooks. How many notebooks does Priya have left?",
+    "correct_solution": "Step 1: Priya starts with 2 groups of 6 notebooks, so the total is 2 x 6 = 12 notebooks.\nStep 2: Priya gives away 2 notebooks, so 12 - 2 = 10 notebooks.\n#### 10",
+    "wrong_solution": "Step 1: Priya has 2 groups of 6 notebooks, so the total is 2 x 6 = 12 notebooks.\nStep 2: Priya has 12 notebooks left.\n#### 12",
+    "final_answer": 10
+  },
+  {
+    "problem": "Morgan has 5 groups of notebooks, with 8 notebooks in each group. Morgan gives away 11 notebooks. How many notebooks does Morgan have left?",
+    "correct_solution": "Step 1: Morgan starts with 5 groups of 8 notebooks, so the total is 5 x 8 = 40 notebooks.\nStep 2: Morgan gives away 11 notebooks, so 40 - 11 = 29 notebooks.\n#### 29",
+    "wrong_solution": "Step 1: Morgan has 5 groups of 8 notebooks, so the total is 5 x 8 = 40 notebooks.\nStep 2: Morgan has 40 notebooks left.\n#### 40",
+    "final_answer": 29
+  },
+  {
+    "problem": "Taylor has 3 groups of notebooks, with 7 notebooks in each group. Taylor gives away 3 notebooks. How many notebooks does Taylor have left?",
+    "correct_solution": "Step 1: Taylor starts with 3 groups of 7 notebooks, so the total is 3 x 7 = 21 notebooks.\nStep 2: Taylor gives away 3 notebooks, so 21 - 3 = 18 notebooks.\n#### 18",
+    "wrong_solution": "Step 1: Taylor has 3 groups of 7 notebooks, so the total is 3 x 7 = 21 notebooks.\nStep 2: Taylor has 21 notebooks left.\n#### 21",
+    "final_answer": 18
+  },
+  {
+    "problem": "Jordan has 3 groups of marbles, with 5 marbles in each group. Jordan gives away 8 marbles. How many marbles does Jordan have left?",
+    "correct_solution": "Step 1: Jordan starts with 3 groups of 5 marbles, so the total is 3 x 5 = 15 marbles.\nStep 2: Jordan gives away 8 marbles, so 15 - 8 = 7 marbles.\n#### 7",
+    "wrong_solution": "Step 1: Jordan has 3 groups of 5 marbles, so the total is 3 x 5 = 15 marbles.\nStep 2: Jordan has 15 marbles left.\n#### 15",
+    "final_answer": 7
+  },
+  {
+    "problem": "Morgan has 6 groups of notebooks, with 6 notebooks in each group. Morgan gives away 21 notebooks. How many notebooks does Morgan have left?",
+    "correct_solution": "Step 1: Morgan starts with 6 groups of 6 notebooks, so the total is 6 x 6 = 36 notebooks.\nStep 2: Morgan gives away 21 notebooks, so 36 - 21 = 15 notebooks.\n#### 15",
+    "wrong_solution": "Step 1: Morgan has 6 groups of 6 notebooks, so the total is 6 x 6 = 36 notebooks.\nStep 2: Morgan has 36 notebooks left.\n#### 36",
+    "final_answer": 15
+  },
+  {
+    "problem": "Sarah has 2 groups of boxes of pens, with 8 boxes of pens in each group. Sarah gives away 7 boxes of pens. How many boxes of pens does Sarah have left?",
+    "correct_solution": "Step 1: Sarah starts with 2 groups of 8 boxes of pens, so the total is 2 x 8 = 16 boxes of pens.\nStep 2: Sarah gives away 7 boxes of pens, so 16 - 7 = 9 boxes of pens.\n#### 9",
+    "wrong_solution": "Step 1: Sarah has 2 groups of 8 boxes of pens, so the total is 2 x 8 = 16 boxes of pens.\nStep 2: Sarah has 16 boxes of pens left.\n#### 16",
+    "final_answer": 9
+  },
+  {
+    "problem": "Sam has 3 groups of apples, with 12 apples in each group. Sam gives away 21 apples. How many apples does Sam have left?",
+    "correct_solution": "Step 1: Sam starts with 3 groups of 12 apples, so the total is 3 x 12 = 36 apples.\nStep 2: Sam gives away 21 apples, so 36 - 21 = 15 apples.\n#### 15",
+    "wrong_solution": "Step 1: Sam has 3 groups of 12 apples, so the total is 3 x 12 = 36 apples.\nStep 2: Sam has 36 apples left.\n#### 36",
+    "final_answer": 15
+  },
+  {
+    "problem": "Priya has 5 groups of coins, with 9 coins in each group. Priya gives away 42 coins. How many coins does Priya have left?",
+    "correct_solution": "Step 1: Priya starts with 5 groups of 9 coins, so the total is 5 x 9 = 45 coins.\nStep 2: Priya gives away 42 coins, so 45 - 42 = 3 coins.\n#### 3",
+    "wrong_solution": "Step 1: Priya has 5 groups of 9 coins, so the total is 5 x 9 = 45 coins.\nStep 2: Priya has 45 coins left.\n#### 45",
+    "final_answer": 3
+  },
+  {
+    "problem": "Chris has 4 groups of boxes of pens, with 5 boxes of pens in each group. Chris gives away 8 boxes of pens. How many boxes of pens does Chris have left?",
+    "correct_solution": "Step 1: Chris starts with 4 groups of 5 boxes of pens, so the total is 4 x 5 = 20 boxes of pens.\nStep 2: Chris gives away 8 boxes of pens, so 20 - 8 = 12 boxes of pens.\n#### 12",
+    "wrong_solution": "Step 1: Chris has 4 groups of 5 boxes of pens, so the total is 4 x 5 = 20 boxes of pens.\nStep 2: Chris has 20 boxes of pens left.\n#### 20",
+    "final_answer": 12
+  },
+  {
+    "problem": "Sam has 6 groups of coins, with 9 coins in each group. Sam gives away 38 coins. How many coins does Sam have left?",
+    "correct_solution": "Step 1: Sam starts with 6 groups of 9 coins, so the total is 6 x 9 = 54 coins.\nStep 2: Sam gives away 38 coins, so 54 - 38 = 16 coins.\n#### 16",
+    "wrong_solution": "Step 1: Sam has 6 groups of 9 coins, so the total is 6 x 9 = 54 coins.\nStep 2: Sam has 54 coins left.\n#### 54",
+    "final_answer": 16
+  },
+  {
+    "problem": "Morgan has 3 groups of notebooks, with 5 notebooks in each group. Morgan gives away 9 notebooks. How many notebooks does Morgan have left?",
+    "correct_solution": "Step 1: Morgan starts with 3 groups of 5 notebooks, so the total is 3 x 5 = 15 notebooks.\nStep 2: Morgan gives away 9 notebooks, so 15 - 9 = 6 notebooks.\n#### 6",
+    "wrong_solution": "Step 1: Morgan has 3 groups of 5 notebooks, so the total is 3 x 5 = 15 notebooks.\nStep 2: Morgan has 15 notebooks left.\n#### 15",
+    "final_answer": 6
+  },
+  {
+    "problem": "Chris has 2 groups of apples, with 4 apples in each group. Chris gives away 2 apples. How many apples does Chris have left?",
+    "correct_solution": "Step 1: Chris starts with 2 groups of 4 apples, so the total is 2 x 4 = 8 apples.\nStep 2: Chris gives away 2 apples, so 8 - 2 = 6 apples.\n#### 6",
+    "wrong_solution": "Step 1: Chris has 2 groups of 4 apples, so the total is 2 x 4 = 8 apples.\nStep 2: Chris has 8 apples left.\n#### 8",
+    "final_answer": 6
+  },
+  {
+    "problem": "Jordan has 5 groups of coins, with 12 coins in each group. Jordan gives away 5 coins. How many coins does Jordan have left?",
+    "correct_solution": "Step 1: Jordan starts with 5 groups of 12 coins, so the total is 5 x 12 = 60 coins.\nStep 2: Jordan gives away 5 coins, so 60 - 5 = 55 coins.\n#### 55",
+    "wrong_solution": "Step 1: Jordan has 5 groups of 12 coins, so the total is 5 x 12 = 60 coins.\nStep 2: Jordan has 60 coins left.\n#### 60",
+    "final_answer": 55
+  },
+  {
+    "problem": "Morgan has 6 groups of stickers, with 10 stickers in each group. Morgan gives away 34 stickers. How many stickers does Morgan have left?",
+    "correct_solution": "Step 1: Morgan starts with 6 groups of 10 stickers, so the total is 6 x 10 = 60 stickers.\nStep 2: Morgan gives away 34 stickers, so 60 - 34 = 26 stickers.\n#### 26",
+    "wrong_solution": "Step 1: Morgan has 6 groups of 10 stickers, so the total is 6 x 10 = 60 stickers.\nStep 2: Morgan has 60 stickers left.\n#### 60",
+    "final_answer": 26
+  },
+  {
+    "problem": "Sam has 2 groups of marbles, with 4 marbles in each group. Sam gives away 6 marbles. How many marbles does Sam have left?",
+    "correct_solution": "Step 1: Sam starts with 2 groups of 4 marbles, so the total is 2 x 4 = 8 marbles.\nStep 2: Sam gives away 6 marbles, so 8 - 6 = 2 marbles.\n#### 2",
+    "wrong_solution": "Step 1: Sam has 2 groups of 4 marbles, so the total is 2 x 4 = 8 marbles.\nStep 2: Sam has 8 marbles left.\n#### 8",
+    "final_answer": 2
+  },
+  {
+    "problem": "Sam has 4 groups of coins, with 4 coins in each group. Sam gives away 5 coins. How many coins does Sam have left?",
+    "correct_solution": "Step 1: Sam starts with 4 groups of 4 coins, so the total is 4 x 4 = 16 coins.\nStep 2: Sam gives away 5 coins, so 16 - 5 = 11 coins.\n#### 11",
+    "wrong_solution": "Step 1: Sam has 4 groups of 4 coins, so the total is 4 x 4 = 16 coins.\nStep 2: Sam has 16 coins left.\n#### 16",
+    "final_answer": 11
+  },
+  {
+    "problem": "Morgan has 5 groups of boxes of pens, with 3 boxes of pens in each group. Morgan gives away 12 boxes of pens. How many boxes of pens does Morgan have left?",
+    "correct_solution": "Step 1: Morgan starts with 5 groups of 3 boxes of pens, so the total is 5 x 3 = 15 boxes of pens.\nStep 2: Morgan gives away 12 boxes of pens, so 15 - 12 = 3 boxes of pens.\n#### 3",
+    "wrong_solution": "Step 1: Morgan has 5 groups of 3 boxes of pens, so the total is 5 x 3 = 15 boxes of pens.\nStep 2: Morgan has 15 boxes of pens left.\n#### 15",
+    "final_answer": 3
+  },
+  {
+    "problem": "Sam has 3 groups of marbles, with 11 marbles in each group. Sam gives away 7 marbles. How many marbles does Sam have left?",
+    "correct_solution": "Step 1: Sam starts with 3 groups of 11 marbles, so the total is 3 x 11 = 33 marbles.\nStep 2: Sam gives away 7 marbles, so 33 - 7 = 26 marbles.\n#### 26",
+    "wrong_solution": "Step 1: Sam has 3 groups of 11 marbles, so the total is 3 x 11 = 33 marbles.\nStep 2: Sam has 33 marbles left.\n#### 33",
+    "final_answer": 26
+  },
+  {
+    "problem": "Sam has 6 groups of coins, with 12 coins in each group. Sam gives away 26 coins. How many coins does Sam have left?",
+    "correct_solution": "Step 1: Sam starts with 6 groups of 12 coins, so the total is 6 x 12 = 72 coins.\nStep 2: Sam gives away 26 coins, so 72 - 26 = 46 coins.\n#### 46",
+    "wrong_solution": "Step 1: Sam has 6 groups of 12 coins, so the total is 6 x 12 = 72 coins.\nStep 2: Sam has 72 coins left.\n#### 72",
+    "final_answer": 46
+  },
+  {
+    "problem": "Jordan has 3 groups of notebooks, with 11 notebooks in each group. Jordan gives away 1 notebooks. How many notebooks does Jordan have left?",
+    "correct_solution": "Step 1: Jordan starts with 3 groups of 11 notebooks, so the total is 3 x 11 = 33 notebooks.\nStep 2: Jordan gives away 1 notebooks, so 33 - 1 = 32 notebooks.\n#### 32",
+    "wrong_solution": "Step 1: Jordan has 3 groups of 11 notebooks, so the total is 3 x 11 = 33 notebooks.\nStep 2: Jordan has 33 notebooks left.\n#### 33",
+    "final_answer": 32
+  },
+  {
+    "problem": "Taylor has 2 groups of stickers, with 4 stickers in each group. Taylor gives away 3 stickers. How many stickers does Taylor have left?",
+    "correct_solution": "Step 1: Taylor starts with 2 groups of 4 stickers, so the total is 2 x 4 = 8 stickers.\nStep 2: Taylor gives away 3 stickers, so 8 - 3 = 5 stickers.\n#### 5",
+    "wrong_solution": "Step 1: Taylor has 2 groups of 4 stickers, so the total is 2 x 4 = 8 stickers.\nStep 2: Taylor has 8 stickers left.\n#### 8",
+    "final_answer": 5
+  },
+  {
+    "problem": "Sam has 2 groups of boxes of pens, with 6 boxes of pens in each group. Sam gives away 10 boxes of pens. How many boxes of pens does Sam have left?",
+    "correct_solution": "Step 1: Sam starts with 2 groups of 6 boxes of pens, so the total is 2 x 6 = 12 boxes of pens.\nStep 2: Sam gives away 10 boxes of pens, so 12 - 10 = 2 boxes of pens.\n#### 2",
+    "wrong_solution": "Step 1: Sam has 2 groups of 6 boxes of pens, so the total is 2 x 6 = 12 boxes of pens.\nStep 2: Sam has 12 boxes of pens left.\n#### 12",
+    "final_answer": 2
+  },
+  {
+    "problem": "Alex has 5 groups of apples, with 4 apples in each group. Alex gives away 18 apples. How many apples does Alex have left?",
+    "correct_solution": "Step 1: Alex starts with 5 groups of 4 apples, so the total is 5 x 4 = 20 apples.\nStep 2: Alex gives away 18 apples, so 20 - 18 = 2 apples.\n#### 2",
+    "wrong_solution": "Step 1: Alex has 5 groups of 4 apples, so the total is 5 x 4 = 20 apples.\nStep 2: Alex has 20 apples left.\n#### 20",
+    "final_answer": 2
+  },
+  {
+    "problem": "Jordan has 5 groups of boxes of pens, with 11 boxes of pens in each group. Jordan gives away 11 boxes of pens. How many boxes of pens does Jordan have left?",
+    "correct_solution": "Step 1: Jordan starts with 5 groups of 11 boxes of pens, so the total is 5 x 11 = 55 boxes of pens.\nStep 2: Jordan gives away 11 boxes of pens, so 55 - 11 = 44 boxes of pens.\n#### 44",
+    "wrong_solution": "Step 1: Jordan has 5 groups of 11 boxes of pens, so the total is 5 x 11 = 55 boxes of pens.\nStep 2: Jordan has 55 boxes of pens left.\n#### 55",
+    "final_answer": 44
+  },
+  {
+    "problem": "Sam has 6 groups of marbles, with 9 marbles in each group. Sam gives away 14 marbles. How many marbles does Sam have left?",
+    "correct_solution": "Step 1: Sam starts with 6 groups of 9 marbles, so the total is 6 x 9 = 54 marbles.\nStep 2: Sam gives away 14 marbles, so 54 - 14 = 40 marbles.\n#### 40",
+    "wrong_solution": "Step 1: Sam has 6 groups of 9 marbles, so the total is 6 x 9 = 54 marbles.\nStep 2: Sam has 54 marbles left.\n#### 54",
+    "final_answer": 40
+  },
+  {
+    "problem": "Priya has 4 groups of coins, with 9 coins in each group. Priya gives away 24 coins. How many coins does Priya have left?",
+    "correct_solution": "Step 1: Priya starts with 4 groups of 9 coins, so the total is 4 x 9 = 36 coins.\nStep 2: Priya gives away 24 coins, so 36 - 24 = 12 coins.\n#### 12",
+    "wrong_solution": "Step 1: Priya has 4 groups of 9 coins, so the total is 4 x 9 = 36 coins.\nStep 2: Priya has 36 coins left.\n#### 36",
+    "final_answer": 12
+  },
+  {
+    "problem": "Chris has 5 groups of marbles, with 4 marbles in each group. Chris gives away 8 marbles. How many marbles does Chris have left?",
+    "correct_solution": "Step 1: Chris starts with 5 groups of 4 marbles, so the total is 5 x 4 = 20 marbles.\nStep 2: Chris gives away 8 marbles, so 20 - 8 = 12 marbles.\n#### 12",
+    "wrong_solution": "Step 1: Chris has 5 groups of 4 marbles, so the total is 5 x 4 = 20 marbles.\nStep 2: Chris has 20 marbles left.\n#### 20",
+    "final_answer": 12
+  },
+  {
+    "problem": "Priya has 4 groups of apples, with 3 apples in each group. Priya gives away 10 apples. How many apples does Priya have left?",
+    "correct_solution": "Step 1: Priya starts with 4 groups of 3 apples, so the total is 4 x 3 = 12 apples.\nStep 2: Priya gives away 10 apples, so 12 - 10 = 2 apples.\n#### 2",
+    "wrong_solution": "Step 1: Priya has 4 groups of 3 apples, so the total is 4 x 3 = 12 apples.\nStep 2: Priya has 12 apples left.\n#### 12",
+    "final_answer": 2
+  },
+  {
+    "problem": "Priya has 3 groups of marbles, with 3 marbles in each group. Priya gives away 2 marbles. How many marbles does Priya have left?",
+    "correct_solution": "Step 1: Priya starts with 3 groups of 3 marbles, so the total is 3 x 3 = 9 marbles.\nStep 2: Priya gives away 2 marbles, so 9 - 2 = 7 marbles.\n#### 7",
+    "wrong_solution": "Step 1: Priya has 3 groups of 3 marbles, so the total is 3 x 3 = 9 marbles.\nStep 2: Priya has 9 marbles left.\n#### 9",
+    "final_answer": 7
+  },
+  {
+    "problem": "Sarah has 2 groups of boxes of pens, with 3 boxes of pens in each group. Sarah gives away 3 boxes of pens. How many boxes of pens does Sarah have left?",
+    "correct_solution": "Step 1: Sarah starts with 2 groups of 3 boxes of pens, so the total is 2 x 3 = 6 boxes of pens.\nStep 2: Sarah gives away 3 boxes of pens, so 6 - 3 = 3 boxes of pens.\n#### 3",
+    "wrong_solution": "Step 1: Sarah has 2 groups of 3 boxes of pens, so the total is 2 x 3 = 6 boxes of pens.\nStep 2: Sarah has 6 boxes of pens left.\n#### 6",
+    "final_answer": 3
+  },
+  {
+    "problem": "Alex has 3 groups of marbles, with 7 marbles in each group. Alex gives away 16 marbles. How many marbles does Alex have left?",
+    "correct_solution": "Step 1: Alex starts with 3 groups of 7 marbles, so the total is 3 x 7 = 21 marbles.\nStep 2: Alex gives away 16 marbles, so 21 - 16 = 5 marbles.\n#### 5",
+    "wrong_solution": "Step 1: Alex has 3 groups of 7 marbles, so the total is 3 x 7 = 21 marbles.\nStep 2: Alex has 21 marbles left.\n#### 21",
+    "final_answer": 5
+  },
+  {
+    "problem": "Priya has 3 groups of marbles, with 12 marbles in each group. Priya gives away 31 marbles. How many marbles does Priya have left?",
+    "correct_solution": "Step 1: Priya starts with 3 groups of 12 marbles, so the total is 3 x 12 = 36 marbles.\nStep 2: Priya gives away 31 marbles, so 36 - 31 = 5 marbles.\n#### 5",
+    "wrong_solution": "Step 1: Priya has 3 groups of 12 marbles, so the total is 3 x 12 = 36 marbles.\nStep 2: Priya has 36 marbles left.\n#### 36",
+    "final_answer": 5
+  },
+  {
+    "problem": "Priya has 5 groups of stickers, with 6 stickers in each group. Priya gives away 4 stickers. How many stickers does Priya have left?",
+    "correct_solution": "Step 1: Priya starts with 5 groups of 6 stickers, so the total is 5 x 6 = 30 stickers.\nStep 2: Priya gives away 4 stickers, so 30 - 4 = 26 stickers.\n#### 26",
+    "wrong_solution": "Step 1: Priya has 5 groups of 6 stickers, so the total is 5 x 6 = 30 stickers.\nStep 2: Priya has 30 stickers left.\n#### 30",
+    "final_answer": 26
+  },
+  {
+    "problem": "Alex has 5 groups of coins, with 8 coins in each group. Alex gives away 28 coins. How many coins does Alex have left?",
+    "correct_solution": "Step 1: Alex starts with 5 groups of 8 coins, so the total is 5 x 8 = 40 coins.\nStep 2: Alex gives away 28 coins, so 40 - 28 = 12 coins.\n#### 12",
+    "wrong_solution": "Step 1: Alex has 5 groups of 8 coins, so the total is 5 x 8 = 40 coins.\nStep 2: Alex has 40 coins left.\n#### 40",
+    "final_answer": 12
+  },
+  {
+    "problem": "Morgan has 2 groups of stickers, with 4 stickers in each group. Morgan gives away 1 stickers. How many stickers does Morgan have left?",
+    "correct_solution": "Step 1: Morgan starts with 2 groups of 4 stickers, so the total is 2 x 4 = 8 stickers.\nStep 2: Morgan gives away 1 stickers, so 8 - 1 = 7 stickers.\n#### 7",
+    "wrong_solution": "Step 1: Morgan has 2 groups of 4 stickers, so the total is 2 x 4 = 8 stickers.\nStep 2: Morgan has 8 stickers left.\n#### 8",
+    "final_answer": 7
+  },
+  {
+    "problem": "Morgan has 4 groups of coins, with 4 coins in each group. Morgan gives away 4 coins. How many coins does Morgan have left?",
+    "correct_solution": "Step 1: Morgan starts with 4 groups of 4 coins, so the total is 4 x 4 = 16 coins.\nStep 2: Morgan gives away 4 coins, so 16 - 4 = 12 coins.\n#### 12",
+    "wrong_solution": "Step 1: Morgan has 4 groups of 4 coins, so the total is 4 x 4 = 16 coins.\nStep 2: Morgan has 16 coins left.\n#### 16",
+    "final_answer": 12
+  },
+  {
+    "problem": "Priya has 6 groups of boxes of pens, with 10 boxes of pens in each group. Priya gives away 9 boxes of pens. How many boxes of pens does Priya have left?",
+    "correct_solution": "Step 1: Priya starts with 6 groups of 10 boxes of pens, so the total is 6 x 10 = 60 boxes of pens.\nStep 2: Priya gives away 9 boxes of pens, so 60 - 9 = 51 boxes of pens.\n#### 51",
+    "wrong_solution": "Step 1: Priya has 6 groups of 10 boxes of pens, so the total is 6 x 10 = 60 boxes of pens.\nStep 2: Priya has 60 boxes of pens left.\n#### 60",
+    "final_answer": 51
+  },
+  {
+    "problem": "Morgan has 4 groups of boxes of pens, with 10 boxes of pens in each group. Morgan gives away 16 boxes of pens. How many boxes of pens does Morgan have left?",
+    "correct_solution": "Step 1: Morgan starts with 4 groups of 10 boxes of pens, so the total is 4 x 10 = 40 boxes of pens.\nStep 2: Morgan gives away 16 boxes of pens, so 40 - 16 = 24 boxes of pens.\n#### 24",
+    "wrong_solution": "Step 1: Morgan has 4 groups of 10 boxes of pens, so the total is 4 x 10 = 40 boxes of pens.\nStep 2: Morgan has 40 boxes of pens left.\n#### 40",
+    "final_answer": 24
+  },
+  {
+    "problem": "Alex has 6 groups of stickers, with 4 stickers in each group. Alex gives away 2 stickers. How many stickers does Alex have left?",
+    "correct_solution": "Step 1: Alex starts with 6 groups of 4 stickers, so the total is 6 x 4 = 24 stickers.\nStep 2: Alex gives away 2 stickers, so 24 - 2 = 22 stickers.\n#### 22",
+    "wrong_solution": "Step 1: Alex has 6 groups of 4 stickers, so the total is 6 x 4 = 24 stickers.\nStep 2: Alex has 24 stickers left.\n#### 24",
+    "final_answer": 22
+  },
+  {
+    "problem": "Sarah has 3 groups of apples, with 5 apples in each group. Sarah gives away 7 apples. How many apples does Sarah have left?",
+    "correct_solution": "Step 1: Sarah starts with 3 groups of 5 apples, so the total is 3 x 5 = 15 apples.\nStep 2: Sarah gives away 7 apples, so 15 - 7 = 8 apples.\n#### 8",
+    "wrong_solution": "Step 1: Sarah has 3 groups of 5 apples, so the total is 3 x 5 = 15 apples.\nStep 2: Sarah has 15 apples left.\n#### 15",
+    "final_answer": 8
+  },
+  {
+    "problem": "Chris has 3 groups of stickers, with 9 stickers in each group. Chris gives away 2 stickers. How many stickers does Chris have left?",
+    "correct_solution": "Step 1: Chris starts with 3 groups of 9 stickers, so the total is 3 x 9 = 27 stickers.\nStep 2: Chris gives away 2 stickers, so 27 - 2 = 25 stickers.\n#### 25",
+    "wrong_solution": "Step 1: Chris has 3 groups of 9 stickers, so the total is 3 x 9 = 27 stickers.\nStep 2: Chris has 27 stickers left.\n#### 27",
+    "final_answer": 25
+  },
+  {
+    "problem": "Jordan has 2 groups of stickers, with 9 stickers in each group. Jordan gives away 9 stickers. How many stickers does Jordan have left?",
+    "correct_solution": "Step 1: Jordan starts with 2 groups of 9 stickers, so the total is 2 x 9 = 18 stickers.\nStep 2: Jordan gives away 9 stickers, so 18 - 9 = 9 stickers.\n#### 9",
+    "wrong_solution": "Step 1: Jordan has 2 groups of 9 stickers, so the total is 2 x 9 = 18 stickers.\nStep 2: Jordan has 18 stickers left.\n#### 18",
+    "final_answer": 9
+  },
+  {
+    "problem": "Chris has 5 groups of notebooks, with 11 notebooks in each group. Chris gives away 43 notebooks. How many notebooks does Chris have left?",
+    "correct_solution": "Step 1: Chris starts with 5 groups of 11 notebooks, so the total is 5 x 11 = 55 notebooks.\nStep 2: Chris gives away 43 notebooks, so 55 - 43 = 12 notebooks.\n#### 12",
+    "wrong_solution": "Step 1: Chris has 5 groups of 11 notebooks, so the total is 5 x 11 = 55 notebooks.\nStep 2: Chris has 55 notebooks left.\n#### 55",
+    "final_answer": 12
+  },
+  {
+    "problem": "Chris has 3 groups of boxes of pens, with 7 boxes of pens in each group. Chris gives away 7 boxes of pens. How many boxes of pens does Chris have left?",
+    "correct_solution": "Step 1: Chris starts with 3 groups of 7 boxes of pens, so the total is 3 x 7 = 21 boxes of pens.\nStep 2: Chris gives away 7 boxes of pens, so 21 - 7 = 14 boxes of pens.\n#### 14",
+    "wrong_solution": "Step 1: Chris has 3 groups of 7 boxes of pens, so the total is 3 x 7 = 21 boxes of pens.\nStep 2: Chris has 21 boxes of pens left.\n#### 21",
+    "final_answer": 14
+  },
+  {
+    "problem": "Sarah has 6 groups of marbles, with 3 marbles in each group. Sarah gives away 11 marbles. How many marbles does Sarah have left?",
+    "correct_solution": "Step 1: Sarah starts with 6 groups of 3 marbles, so the total is 6 x 3 = 18 marbles.\nStep 2: Sarah gives away 11 marbles, so 18 - 11 = 7 marbles.\n#### 7",
+    "wrong_solution": "Step 1: Sarah has 6 groups of 3 marbles, so the total is 6 x 3 = 18 marbles.\nStep 2: Sarah has 18 marbles left.\n#### 18",
+    "final_answer": 7
+  },
+  {
+    "problem": "Sarah has 6 groups of apples, with 10 apples in each group. Sarah gives away 33 apples. How many apples does Sarah have left?",
+    "correct_solution": "Step 1: Sarah starts with 6 groups of 10 apples, so the total is 6 x 10 = 60 apples.\nStep 2: Sarah gives away 33 apples, so 60 - 33 = 27 apples.\n#### 27",
+    "wrong_solution": "Step 1: Sarah has 6 groups of 10 apples, so the total is 6 x 10 = 60 apples.\nStep 2: Sarah has 60 apples left.\n#### 60",
+    "final_answer": 27
+  },
+  {
+    "problem": "Jordan has 6 groups of apples, with 4 apples in each group. Jordan gives away 6 apples. How many apples does Jordan have left?",
+    "correct_solution": "Step 1: Jordan starts with 6 groups of 4 apples, so the total is 6 x 4 = 24 apples.\nStep 2: Jordan gives away 6 apples, so 24 - 6 = 18 apples.\n#### 18",
+    "wrong_solution": "Step 1: Jordan has 6 groups of 4 apples, so the total is 6 x 4 = 24 apples.\nStep 2: Jordan has 24 apples left.\n#### 24",
+    "final_answer": 18
+  },
+  {
+    "problem": "Alex has 2 groups of marbles, with 6 marbles in each group. Alex gives away 7 marbles. How many marbles does Alex have left?",
+    "correct_solution": "Step 1: Alex starts with 2 groups of 6 marbles, so the total is 2 x 6 = 12 marbles.\nStep 2: Alex gives away 7 marbles, so 12 - 7 = 5 marbles.\n#### 5",
+    "wrong_solution": "Step 1: Alex has 2 groups of 6 marbles, so the total is 2 x 6 = 12 marbles.\nStep 2: Alex has 12 marbles left.\n#### 12",
+    "final_answer": 5
+  },
+  {
+    "problem": "Alex has 3 groups of marbles, with 12 marbles in each group. Alex gives away 3 marbles. How many marbles does Alex have left?",
+    "correct_solution": "Step 1: Alex starts with 3 groups of 12 marbles, so the total is 3 x 12 = 36 marbles.\nStep 2: Alex gives away 3 marbles, so 36 - 3 = 33 marbles.\n#### 33",
+    "wrong_solution": "Step 1: Alex has 3 groups of 12 marbles, so the total is 3 x 12 = 36 marbles.\nStep 2: Alex has 36 marbles left.\n#### 36",
+    "final_answer": 33
+  },
+  {
+    "problem": "Alex has 6 groups of stickers, with 12 stickers in each group. Alex gives away 67 stickers. How many stickers does Alex have left?",
+    "correct_solution": "Step 1: Alex starts with 6 groups of 12 stickers, so the total is 6 x 12 = 72 stickers.\nStep 2: Alex gives away 67 stickers, so 72 - 67 = 5 stickers.\n#### 5",
+    "wrong_solution": "Step 1: Alex has 6 groups of 12 stickers, so the total is 6 x 12 = 72 stickers.\nStep 2: Alex has 72 stickers left.\n#### 72",
+    "final_answer": 5
+  },
+  {
+    "problem": "Taylor has 3 groups of notebooks, with 8 notebooks in each group. Taylor gives away 8 notebooks. How many notebooks does Taylor have left?",
+    "correct_solution": "Step 1: Taylor starts with 3 groups of 8 notebooks, so the total is 3 x 8 = 24 notebooks.\nStep 2: Taylor gives away 8 notebooks, so 24 - 8 = 16 notebooks.\n#### 16",
+    "wrong_solution": "Step 1: Taylor has 3 groups of 8 notebooks, so the total is 3 x 8 = 24 notebooks.\nStep 2: Taylor has 24 notebooks left.\n#### 24",
+    "final_answer": 16
+  },
+  {
+    "problem": "Sam has 3 groups of stickers, with 7 stickers in each group. Sam gives away 15 stickers. How many stickers does Sam have left?",
+    "correct_solution": "Step 1: Sam starts with 3 groups of 7 stickers, so the total is 3 x 7 = 21 stickers.\nStep 2: Sam gives away 15 stickers, so 21 - 15 = 6 stickers.\n#### 6",
+    "wrong_solution": "Step 1: Sam has 3 groups of 7 stickers, so the total is 3 x 7 = 21 stickers.\nStep 2: Sam has 21 stickers left.\n#### 21",
+    "final_answer": 6
+  },
+  {
+    "problem": "Taylor has 2 groups of apples, with 10 apples in each group. Taylor gives away 19 apples. How many apples does Taylor have left?",
+    "correct_solution": "Step 1: Taylor starts with 2 groups of 10 apples, so the total is 2 x 10 = 20 apples.\nStep 2: Taylor gives away 19 apples, so 20 - 19 = 1 apples.\n#### 1",
+    "wrong_solution": "Step 1: Taylor has 2 groups of 10 apples, so the total is 2 x 10 = 20 apples.\nStep 2: Taylor has 20 apples left.\n#### 20",
+    "final_answer": 1
+  },
+  {
+    "problem": "Alex has 6 groups of apples, with 6 apples in each group. Alex gives away 33 apples. How many apples does Alex have left?",
+    "correct_solution": "Step 1: Alex starts with 6 groups of 6 apples, so the total is 6 x 6 = 36 apples.\nStep 2: Alex gives away 33 apples, so 36 - 33 = 3 apples.\n#### 3",
+    "wrong_solution": "Step 1: Alex has 6 groups of 6 apples, so the total is 6 x 6 = 36 apples.\nStep 2: Alex has 36 apples left.\n#### 36",
+    "final_answer": 3
+  },
+  {
+    "problem": "Sam has 4 groups of boxes of pens, with 4 boxes of pens in each group. Sam gives away 15 boxes of pens. How many boxes of pens does Sam have left?",
+    "correct_solution": "Step 1: Sam starts with 4 groups of 4 boxes of pens, so the total is 4 x 4 = 16 boxes of pens.\nStep 2: Sam gives away 15 boxes of pens, so 16 - 15 = 1 boxes of pens.\n#### 1",
+    "wrong_solution": "Step 1: Sam has 4 groups of 4 boxes of pens, so the total is 4 x 4 = 16 boxes of pens.\nStep 2: Sam has 16 boxes of pens left.\n#### 16",
+    "final_answer": 1
+  },
+  {
+    "problem": "Priya has 4 groups of notebooks, with 5 notebooks in each group. Priya gives away 15 notebooks. How many notebooks does Priya have left?",
+    "correct_solution": "Step 1: Priya starts with 4 groups of 5 notebooks, so the total is 4 x 5 = 20 notebooks.\nStep 2: Priya gives away 15 notebooks, so 20 - 15 = 5 notebooks.\n#### 5",
+    "wrong_solution": "Step 1: Priya has 4 groups of 5 notebooks, so the total is 4 x 5 = 20 notebooks.\nStep 2: Priya has 20 notebooks left.\n#### 20",
+    "final_answer": 5
+  },
+  {
+    "problem": "Sam has 6 groups of marbles, with 3 marbles in each group. Sam gives away 10 marbles. How many marbles does Sam have left?",
+    "correct_solution": "Step 1: Sam starts with 6 groups of 3 marbles, so the total is 6 x 3 = 18 marbles.\nStep 2: Sam gives away 10 marbles, so 18 - 10 = 8 marbles.\n#### 8",
+    "wrong_solution": "Step 1: Sam has 6 groups of 3 marbles, so the total is 6 x 3 = 18 marbles.\nStep 2: Sam has 18 marbles left.\n#### 18",
+    "final_answer": 8
+  },
+  {
+    "problem": "Alex has 4 groups of boxes of pens, with 4 boxes of pens in each group. Alex gives away 15 boxes of pens. How many boxes of pens does Alex have left?",
+    "correct_solution": "Step 1: Alex starts with 4 groups of 4 boxes of pens, so the total is 4 x 4 = 16 boxes of pens.\nStep 2: Alex gives away 15 boxes of pens, so 16 - 15 = 1 boxes of pens.\n#### 1",
+    "wrong_solution": "Step 1: Alex has 4 groups of 4 boxes of pens, so the total is 4 x 4 = 16 boxes of pens.\nStep 2: Alex has 16 boxes of pens left.\n#### 16",
+    "final_answer": 1
+  },
+  {
+    "problem": "Alex has 6 groups of coins, with 5 coins in each group. Alex gives away 9 coins. How many coins does Alex have left?",
+    "correct_solution": "Step 1: Alex starts with 6 groups of 5 coins, so the total is 6 x 5 = 30 coins.\nStep 2: Alex gives away 9 coins, so 30 - 9 = 21 coins.\n#### 21",
+    "wrong_solution": "Step 1: Alex has 6 groups of 5 coins, so the total is 6 x 5 = 30 coins.\nStep 2: Alex has 30 coins left.\n#### 30",
+    "final_answer": 21
+  },
+  {
+    "problem": "Sam has 3 groups of marbles, with 8 marbles in each group. Sam gives away 7 marbles. How many marbles does Sam have left?",
+    "correct_solution": "Step 1: Sam starts with 3 groups of 8 marbles, so the total is 3 x 8 = 24 marbles.\nStep 2: Sam gives away 7 marbles, so 24 - 7 = 17 marbles.\n#### 17",
+    "wrong_solution": "Step 1: Sam has 3 groups of 8 marbles, so the total is 3 x 8 = 24 marbles.\nStep 2: Sam has 24 marbles left.\n#### 24",
+    "final_answer": 17
+  },
+  {
+    "problem": "Sam has 5 groups of marbles, with 7 marbles in each group. Sam gives away 4 marbles. How many marbles does Sam have left?",
+    "correct_solution": "Step 1: Sam starts with 5 groups of 7 marbles, so the total is 5 x 7 = 35 marbles.\nStep 2: Sam gives away 4 marbles, so 35 - 4 = 31 marbles.\n#### 31",
+    "wrong_solution": "Step 1: Sam has 5 groups of 7 marbles, so the total is 5 x 7 = 35 marbles.\nStep 2: Sam has 35 marbles left.\n#### 35",
+    "final_answer": 31
+  },
+  {
+    "problem": "Alex has 5 groups of coins, with 7 coins in each group. Alex gives away 3 coins. How many coins does Alex have left?",
+    "correct_solution": "Step 1: Alex starts with 5 groups of 7 coins, so the total is 5 x 7 = 35 coins.\nStep 2: Alex gives away 3 coins, so 35 - 3 = 32 coins.\n#### 32",
+    "wrong_solution": "Step 1: Alex has 5 groups of 7 coins, so the total is 5 x 7 = 35 coins.\nStep 2: Alex has 35 coins left.\n#### 35",
+    "final_answer": 32
+  },
+  {
+    "problem": "Sarah has 3 groups of notebooks, with 7 notebooks in each group. Sarah gives away 6 notebooks. How many notebooks does Sarah have left?",
+    "correct_solution": "Step 1: Sarah starts with 3 groups of 7 notebooks, so the total is 3 x 7 = 21 notebooks.\nStep 2: Sarah gives away 6 notebooks, so 21 - 6 = 15 notebooks.\n#### 15",
+    "wrong_solution": "Step 1: Sarah has 3 groups of 7 notebooks, so the total is 3 x 7 = 21 notebooks.\nStep 2: Sarah has 21 notebooks left.\n#### 21",
+    "final_answer": 15
+  },
+  {
+    "problem": "Chris has 5 groups of marbles, with 11 marbles in each group. Chris gives away 1 marbles. How many marbles does Chris have left?",
+    "correct_solution": "Step 1: Chris starts with 5 groups of 11 marbles, so the total is 5 x 11 = 55 marbles.\nStep 2: Chris gives away 1 marbles, so 55 - 1 = 54 marbles.\n#### 54",
+    "wrong_solution": "Step 1: Chris has 5 groups of 11 marbles, so the total is 5 x 11 = 55 marbles.\nStep 2: Chris has 55 marbles left.\n#### 55",
+    "final_answer": 54
+  },
+  {
+    "problem": "Alex has 3 groups of apples, with 11 apples in each group. Alex gives away 3 apples. How many apples does Alex have left?",
+    "correct_solution": "Step 1: Alex starts with 3 groups of 11 apples, so the total is 3 x 11 = 33 apples.\nStep 2: Alex gives away 3 apples, so 33 - 3 = 30 apples.\n#### 30",
+    "wrong_solution": "Step 1: Alex has 3 groups of 11 apples, so the total is 3 x 11 = 33 apples.\nStep 2: Alex has 33 apples left.\n#### 33",
+    "final_answer": 30
+  },
+  {
+    "problem": "Taylor has 6 groups of marbles, with 5 marbles in each group. Taylor gives away 14 marbles. How many marbles does Taylor have left?",
+    "correct_solution": "Step 1: Taylor starts with 6 groups of 5 marbles, so the total is 6 x 5 = 30 marbles.\nStep 2: Taylor gives away 14 marbles, so 30 - 14 = 16 marbles.\n#### 16",
+    "wrong_solution": "Step 1: Taylor has 6 groups of 5 marbles, so the total is 6 x 5 = 30 marbles.\nStep 2: Taylor has 30 marbles left.\n#### 30",
+    "final_answer": 16
+  },
+  {
+    "problem": "Jordan has 4 groups of apples, with 8 apples in each group. Jordan gives away 29 apples. How many apples does Jordan have left?",
+    "correct_solution": "Step 1: Jordan starts with 4 groups of 8 apples, so the total is 4 x 8 = 32 apples.\nStep 2: Jordan gives away 29 apples, so 32 - 29 = 3 apples.\n#### 3",
+    "wrong_solution": "Step 1: Jordan has 4 groups of 8 apples, so the total is 4 x 8 = 32 apples.\nStep 2: Jordan has 32 apples left.\n#### 32",
+    "final_answer": 3
+  },
+  {
+    "problem": "Sarah has 3 groups of notebooks, with 6 notebooks in each group. Sarah gives away 4 notebooks. How many notebooks does Sarah have left?",
+    "correct_solution": "Step 1: Sarah starts with 3 groups of 6 notebooks, so the total is 3 x 6 = 18 notebooks.\nStep 2: Sarah gives away 4 notebooks, so 18 - 4 = 14 notebooks.\n#### 14",
+    "wrong_solution": "Step 1: Sarah has 3 groups of 6 notebooks, so the total is 3 x 6 = 18 notebooks.\nStep 2: Sarah has 18 notebooks left.\n#### 18",
+    "final_answer": 14
+  },
+  {
+    "problem": "Taylor has 5 groups of marbles, with 12 marbles in each group. Taylor gives away 48 marbles. How many marbles does Taylor have left?",
+    "correct_solution": "Step 1: Taylor starts with 5 groups of 12 marbles, so the total is 5 x 12 = 60 marbles.\nStep 2: Taylor gives away 48 marbles, so 60 - 48 = 12 marbles.\n#### 12",
+    "wrong_solution": "Step 1: Taylor has 5 groups of 12 marbles, so the total is 5 x 12 = 60 marbles.\nStep 2: Taylor has 60 marbles left.\n#### 60",
+    "final_answer": 12
+  },
+  {
+    "problem": "Jordan has 3 groups of boxes of pens, with 5 boxes of pens in each group. Jordan gives away 7 boxes of pens. How many boxes of pens does Jordan have left?",
+    "correct_solution": "Step 1: Jordan starts with 3 groups of 5 boxes of pens, so the total is 3 x 5 = 15 boxes of pens.\nStep 2: Jordan gives away 7 boxes of pens, so 15 - 7 = 8 boxes of pens.\n#### 8",
+    "wrong_solution": "Step 1: Jordan has 3 groups of 5 boxes of pens, so the total is 3 x 5 = 15 boxes of pens.\nStep 2: Jordan has 15 boxes of pens left.\n#### 15",
+    "final_answer": 8
+  },
+  {
+    "problem": "Sarah has 4 groups of boxes of pens, with 9 boxes of pens in each group. Sarah gives away 16 boxes of pens. How many boxes of pens does Sarah have left?",
+    "correct_solution": "Step 1: Sarah starts with 4 groups of 9 boxes of pens, so the total is 4 x 9 = 36 boxes of pens.\nStep 2: Sarah gives away 16 boxes of pens, so 36 - 16 = 20 boxes of pens.\n#### 20",
+    "wrong_solution": "Step 1: Sarah has 4 groups of 9 boxes of pens, so the total is 4 x 9 = 36 boxes of pens.\nStep 2: Sarah has 36 boxes of pens left.\n#### 36",
+    "final_answer": 20
+  },
+  {
+    "problem": "Sam has 2 groups of boxes of pens, with 9 boxes of pens in each group. Sam gives away 2 boxes of pens. How many boxes of pens does Sam have left?",
+    "correct_solution": "Step 1: Sam starts with 2 groups of 9 boxes of pens, so the total is 2 x 9 = 18 boxes of pens.\nStep 2: Sam gives away 2 boxes of pens, so 18 - 2 = 16 boxes of pens.\n#### 16",
+    "wrong_solution": "Step 1: Sam has 2 groups of 9 boxes of pens, so the total is 2 x 9 = 18 boxes of pens.\nStep 2: Sam has 18 boxes of pens left.\n#### 18",
+    "final_answer": 16
+  },
+  {
+    "problem": "Chris has 3 groups of boxes of pens, with 10 boxes of pens in each group. Chris gives away 12 boxes of pens. How many boxes of pens does Chris have left?",
+    "correct_solution": "Step 1: Chris starts with 3 groups of 10 boxes of pens, so the total is 3 x 10 = 30 boxes of pens.\nStep 2: Chris gives away 12 boxes of pens, so 30 - 12 = 18 boxes of pens.\n#### 18",
+    "wrong_solution": "Step 1: Chris has 3 groups of 10 boxes of pens, so the total is 3 x 10 = 30 boxes of pens.\nStep 2: Chris has 30 boxes of pens left.\n#### 30",
+    "final_answer": 18
+  },
+  {
+    "problem": "Sam has 3 groups of boxes of pens, with 3 boxes of pens in each group. Sam gives away 4 boxes of pens. How many boxes of pens does Sam have left?",
+    "correct_solution": "Step 1: Sam starts with 3 groups of 3 boxes of pens, so the total is 3 x 3 = 9 boxes of pens.\nStep 2: Sam gives away 4 boxes of pens, so 9 - 4 = 5 boxes of pens.\n#### 5",
+    "wrong_solution": "Step 1: Sam has 3 groups of 3 boxes of pens, so the total is 3 x 3 = 9 boxes of pens.\nStep 2: Sam has 9 boxes of pens left.\n#### 9",
+    "final_answer": 5
+  },
+  {
+    "problem": "Morgan has 4 groups of notebooks, with 4 notebooks in each group. Morgan gives away 13 notebooks. How many notebooks does Morgan have left?",
+    "correct_solution": "Step 1: Morgan starts with 4 groups of 4 notebooks, so the total is 4 x 4 = 16 notebooks.\nStep 2: Morgan gives away 13 notebooks, so 16 - 13 = 3 notebooks.\n#### 3",
+    "wrong_solution": "Step 1: Morgan has 4 groups of 4 notebooks, so the total is 4 x 4 = 16 notebooks.\nStep 2: Morgan has 16 notebooks left.\n#### 16",
+    "final_answer": 3
+  },
+  {
+    "problem": "Sam has 6 groups of notebooks, with 9 notebooks in each group. Sam gives away 44 notebooks. How many notebooks does Sam have left?",
+    "correct_solution": "Step 1: Sam starts with 6 groups of 9 notebooks, so the total is 6 x 9 = 54 notebooks.\nStep 2: Sam gives away 44 notebooks, so 54 - 44 = 10 notebooks.\n#### 10",
+    "wrong_solution": "Step 1: Sam has 6 groups of 9 notebooks, so the total is 6 x 9 = 54 notebooks.\nStep 2: Sam has 54 notebooks left.\n#### 54",
+    "final_answer": 10
+  },
+  {
+    "problem": "Taylor has 2 groups of apples, with 7 apples in each group. Taylor gives away 3 apples. How many apples does Taylor have left?",
+    "correct_solution": "Step 1: Taylor starts with 2 groups of 7 apples, so the total is 2 x 7 = 14 apples.\nStep 2: Taylor gives away 3 apples, so 14 - 3 = 11 apples.\n#### 11",
+    "wrong_solution": "Step 1: Taylor has 2 groups of 7 apples, so the total is 2 x 7 = 14 apples.\nStep 2: Taylor has 14 apples left.\n#### 14",
+    "final_answer": 11
+  },
+  {
+    "problem": "Sam has 2 groups of apples, with 12 apples in each group. Sam gives away 14 apples. How many apples does Sam have left?",
+    "correct_solution": "Step 1: Sam starts with 2 groups of 12 apples, so the total is 2 x 12 = 24 apples.\nStep 2: Sam gives away 14 apples, so 24 - 14 = 10 apples.\n#### 10",
+    "wrong_solution": "Step 1: Sam has 2 groups of 12 apples, so the total is 2 x 12 = 24 apples.\nStep 2: Sam has 24 apples left.\n#### 24",
+    "final_answer": 10
+  },
+  {
+    "problem": "Taylor has 4 groups of coins, with 9 coins in each group. Taylor gives away 33 coins. How many coins does Taylor have left?",
+    "correct_solution": "Step 1: Taylor starts with 4 groups of 9 coins, so the total is 4 x 9 = 36 coins.\nStep 2: Taylor gives away 33 coins, so 36 - 33 = 3 coins.\n#### 3",
+    "wrong_solution": "Step 1: Taylor has 4 groups of 9 coins, so the total is 4 x 9 = 36 coins.\nStep 2: Taylor has 36 coins left.\n#### 36",
+    "final_answer": 3
+  },
+  {
+    "problem": "Alex has 6 groups of stickers, with 6 stickers in each group. Alex gives away 17 stickers. How many stickers does Alex have left?",
+    "correct_solution": "Step 1: Alex starts with 6 groups of 6 stickers, so the total is 6 x 6 = 36 stickers.\nStep 2: Alex gives away 17 stickers, so 36 - 17 = 19 stickers.\n#### 19",
+    "wrong_solution": "Step 1: Alex has 6 groups of 6 stickers, so the total is 6 x 6 = 36 stickers.\nStep 2: Alex has 36 stickers left.\n#### 36",
+    "final_answer": 19
+  },
+  {
+    "problem": "Sarah has 5 groups of coins, with 3 coins in each group. Sarah gives away 9 coins. How many coins does Sarah have left?",
+    "correct_solution": "Step 1: Sarah starts with 5 groups of 3 coins, so the total is 5 x 3 = 15 coins.\nStep 2: Sarah gives away 9 coins, so 15 - 9 = 6 coins.\n#### 6",
+    "wrong_solution": "Step 1: Sarah has 5 groups of 3 coins, so the total is 5 x 3 = 15 coins.\nStep 2: Sarah has 15 coins left.\n#### 15",
+    "final_answer": 6
+  },
+  {
+    "problem": "Priya has 5 groups of notebooks, with 4 notebooks in each group. Priya gives away 11 notebooks. How many notebooks does Priya have left?",
+    "correct_solution": "Step 1: Priya starts with 5 groups of 4 notebooks, so the total is 5 x 4 = 20 notebooks.\nStep 2: Priya gives away 11 notebooks, so 20 - 11 = 9 notebooks.\n#### 9",
+    "wrong_solution": "Step 1: Priya has 5 groups of 4 notebooks, so the total is 5 x 4 = 20 notebooks.\nStep 2: Priya has 20 notebooks left.\n#### 20",
+    "final_answer": 9
+  },
+  {
+    "problem": "Taylor has 2 groups of coins, with 7 coins in each group. Taylor gives away 9 coins. How many coins does Taylor have left?",
+    "correct_solution": "Step 1: Taylor starts with 2 groups of 7 coins, so the total is 2 x 7 = 14 coins.\nStep 2: Taylor gives away 9 coins, so 14 - 9 = 5 coins.\n#### 5",
+    "wrong_solution": "Step 1: Taylor has 2 groups of 7 coins, so the total is 2 x 7 = 14 coins.\nStep 2: Taylor has 14 coins left.\n#### 14",
+    "final_answer": 5
+  },
+  {
+    "problem": "Sam has 5 groups of coins, with 8 coins in each group. Sam gives away 26 coins. How many coins does Sam have left?",
+    "correct_solution": "Step 1: Sam starts with 5 groups of 8 coins, so the total is 5 x 8 = 40 coins.\nStep 2: Sam gives away 26 coins, so 40 - 26 = 14 coins.\n#### 14",
+    "wrong_solution": "Step 1: Sam has 5 groups of 8 coins, so the total is 5 x 8 = 40 coins.\nStep 2: Sam has 40 coins left.\n#### 40",
+    "final_answer": 14
+  },
+  {
+    "problem": "Sam has 3 groups of marbles, with 6 marbles in each group. Sam gives away 14 marbles. How many marbles does Sam have left?",
+    "correct_solution": "Step 1: Sam starts with 3 groups of 6 marbles, so the total is 3 x 6 = 18 marbles.\nStep 2: Sam gives away 14 marbles, so 18 - 14 = 4 marbles.\n#### 4",
+    "wrong_solution": "Step 1: Sam has 3 groups of 6 marbles, so the total is 3 x 6 = 18 marbles.\nStep 2: Sam has 18 marbles left.\n#### 18",
+    "final_answer": 4
+  },
+  {
+    "problem": "Morgan has 3 groups of coins, with 12 coins in each group. Morgan gives away 20 coins. How many coins does Morgan have left?",
+    "correct_solution": "Step 1: Morgan starts with 3 groups of 12 coins, so the total is 3 x 12 = 36 coins.\nStep 2: Morgan gives away 20 coins, so 36 - 20 = 16 coins.\n#### 16",
+    "wrong_solution": "Step 1: Morgan has 3 groups of 12 coins, so the total is 3 x 12 = 36 coins.\nStep 2: Morgan has 36 coins left.\n#### 36",
+    "final_answer": 16
+  },
+  {
+    "problem": "Morgan has 2 groups of marbles, with 7 marbles in each group. Morgan gives away 5 marbles. How many marbles does Morgan have left?",
+    "correct_solution": "Step 1: Morgan starts with 2 groups of 7 marbles, so the total is 2 x 7 = 14 marbles.\nStep 2: Morgan gives away 5 marbles, so 14 - 5 = 9 marbles.\n#### 9",
+    "wrong_solution": "Step 1: Morgan has 2 groups of 7 marbles, so the total is 2 x 7 = 14 marbles.\nStep 2: Morgan has 14 marbles left.\n#### 14",
+    "final_answer": 9
+  },
+  {
+    "problem": "Priya has 6 groups of stickers, with 12 stickers in each group. Priya gives away 42 stickers. How many stickers does Priya have left?",
+    "correct_solution": "Step 1: Priya starts with 6 groups of 12 stickers, so the total is 6 x 12 = 72 stickers.\nStep 2: Priya gives away 42 stickers, so 72 - 42 = 30 stickers.\n#### 30",
+    "wrong_solution": "Step 1: Priya has 6 groups of 12 stickers, so the total is 6 x 12 = 72 stickers.\nStep 2: Priya has 72 stickers left.\n#### 72",
+    "final_answer": 30
+  },
+  {
+    "problem": "Chris has 5 groups of stickers, with 6 stickers in each group. Chris gives away 17 stickers. How many stickers does Chris have left?",
+    "correct_solution": "Step 1: Chris starts with 5 groups of 6 stickers, so the total is 5 x 6 = 30 stickers.\nStep 2: Chris gives away 17 stickers, so 30 - 17 = 13 stickers.\n#### 13",
+    "wrong_solution": "Step 1: Chris has 5 groups of 6 stickers, so the total is 5 x 6 = 30 stickers.\nStep 2: Chris has 30 stickers left.\n#### 30",
+    "final_answer": 13
+  },
+  {
+    "problem": "Chris has 3 groups of coins, with 4 coins in each group. Chris gives away 5 coins. How many coins does Chris have left?",
+    "correct_solution": "Step 1: Chris starts with 3 groups of 4 coins, so the total is 3 x 4 = 12 coins.\nStep 2: Chris gives away 5 coins, so 12 - 5 = 7 coins.\n#### 7",
+    "wrong_solution": "Step 1: Chris has 3 groups of 4 coins, so the total is 3 x 4 = 12 coins.\nStep 2: Chris has 12 coins left.\n#### 12",
+    "final_answer": 7
+  },
+  {
+    "problem": "Taylor has 3 groups of apples, with 7 apples in each group. Taylor gives away 8 apples. How many apples does Taylor have left?",
+    "correct_solution": "Step 1: Taylor starts with 3 groups of 7 apples, so the total is 3 x 7 = 21 apples.\nStep 2: Taylor gives away 8 apples, so 21 - 8 = 13 apples.\n#### 13",
+    "wrong_solution": "Step 1: Taylor has 3 groups of 7 apples, so the total is 3 x 7 = 21 apples.\nStep 2: Taylor has 21 apples left.\n#### 21",
+    "final_answer": 13
+  },
+  {
+    "problem": "Priya has 2 groups of boxes of pens, with 3 boxes of pens in each group. Priya gives away 2 boxes of pens. How many boxes of pens does Priya have left?",
+    "correct_solution": "Step 1: Priya starts with 2 groups of 3 boxes of pens, so the total is 2 x 3 = 6 boxes of pens.\nStep 2: Priya gives away 2 boxes of pens, so 6 - 2 = 4 boxes of pens.\n#### 4",
+    "wrong_solution": "Step 1: Priya has 2 groups of 3 boxes of pens, so the total is 2 x 3 = 6 boxes of pens.\nStep 2: Priya has 6 boxes of pens left.\n#### 6",
+    "final_answer": 4
+  },
+  {
+    "problem": "Chris has 2 groups of marbles, with 10 marbles in each group. Chris gives away 14 marbles. How many marbles does Chris have left?",
+    "correct_solution": "Step 1: Chris starts with 2 groups of 10 marbles, so the total is 2 x 10 = 20 marbles.\nStep 2: Chris gives away 14 marbles, so 20 - 14 = 6 marbles.\n#### 6",
+    "wrong_solution": "Step 1: Chris has 2 groups of 10 marbles, so the total is 2 x 10 = 20 marbles.\nStep 2: Chris has 20 marbles left.\n#### 20",
+    "final_answer": 6
+  },
+  {
+    "problem": "Priya has 5 groups of coins, with 10 coins in each group. Priya gives away 26 coins. How many coins does Priya have left?",
+    "correct_solution": "Step 1: Priya starts with 5 groups of 10 coins, so the total is 5 x 10 = 50 coins.\nStep 2: Priya gives away 26 coins, so 50 - 26 = 24 coins.\n#### 24",
+    "wrong_solution": "Step 1: Priya has 5 groups of 10 coins, so the total is 5 x 10 = 50 coins.\nStep 2: Priya has 50 coins left.\n#### 50",
+    "final_answer": 24
+  },
+  {
+    "problem": "Priya has 2 groups of boxes of pens, with 4 boxes of pens in each group. Priya gives away 7 boxes of pens. How many boxes of pens does Priya have left?",
+    "correct_solution": "Step 1: Priya starts with 2 groups of 4 boxes of pens, so the total is 2 x 4 = 8 boxes of pens.\nStep 2: Priya gives away 7 boxes of pens, so 8 - 7 = 1 boxes of pens.\n#### 1",
+    "wrong_solution": "Step 1: Priya has 2 groups of 4 boxes of pens, so the total is 2 x 4 = 8 boxes of pens.\nStep 2: Priya has 8 boxes of pens left.\n#### 8",
+    "final_answer": 1
+  },
+  {
+    "problem": "Morgan has 3 groups of boxes of pens, with 11 boxes of pens in each group. Morgan gives away 30 boxes of pens. How many boxes of pens does Morgan have left?",
+    "correct_solution": "Step 1: Morgan starts with 3 groups of 11 boxes of pens, so the total is 3 x 11 = 33 boxes of pens.\nStep 2: Morgan gives away 30 boxes of pens, so 33 - 30 = 3 boxes of pens.\n#### 3",
+    "wrong_solution": "Step 1: Morgan has 3 groups of 11 boxes of pens, so the total is 3 x 11 = 33 boxes of pens.\nStep 2: Morgan has 33 boxes of pens left.\n#### 33",
+    "final_answer": 3
+  },
+  {
+    "problem": "Sarah has 3 groups of marbles, with 4 marbles in each group. Sarah gives away 8 marbles. How many marbles does Sarah have left?",
+    "correct_solution": "Step 1: Sarah starts with 3 groups of 4 marbles, so the total is 3 x 4 = 12 marbles.\nStep 2: Sarah gives away 8 marbles, so 12 - 8 = 4 marbles.\n#### 4",
+    "wrong_solution": "Step 1: Sarah has 3 groups of 4 marbles, so the total is 3 x 4 = 12 marbles.\nStep 2: Sarah has 12 marbles left.\n#### 12",
+    "final_answer": 4
+  },
+  {
+    "problem": "Jordan has 6 groups of stickers, with 11 stickers in each group. Jordan gives away 41 stickers. How many stickers does Jordan have left?",
+    "correct_solution": "Step 1: Jordan starts with 6 groups of 11 stickers, so the total is 6 x 11 = 66 stickers.\nStep 2: Jordan gives away 41 stickers, so 66 - 41 = 25 stickers.\n#### 25",
+    "wrong_solution": "Step 1: Jordan has 6 groups of 11 stickers, so the total is 6 x 11 = 66 stickers.\nStep 2: Jordan has 66 stickers left.\n#### 66",
+    "final_answer": 25
+  },
+  {
+    "problem": "Chris has 6 groups of marbles, with 9 marbles in each group. Chris gives away 36 marbles. How many marbles does Chris have left?",
+    "correct_solution": "Step 1: Chris starts with 6 groups of 9 marbles, so the total is 6 x 9 = 54 marbles.\nStep 2: Chris gives away 36 marbles, so 54 - 36 = 18 marbles.\n#### 18",
+    "wrong_solution": "Step 1: Chris has 6 groups of 9 marbles, so the total is 6 x 9 = 54 marbles.\nStep 2: Chris has 54 marbles left.\n#### 54",
+    "final_answer": 18
+  },
+  {
+    "problem": "Chris has 5 groups of boxes of pens, with 10 boxes of pens in each group. Chris gives away 17 boxes of pens. How many boxes of pens does Chris have left?",
+    "correct_solution": "Step 1: Chris starts with 5 groups of 10 boxes of pens, so the total is 5 x 10 = 50 boxes of pens.\nStep 2: Chris gives away 17 boxes of pens, so 50 - 17 = 33 boxes of pens.\n#### 33",
+    "wrong_solution": "Step 1: Chris has 5 groups of 10 boxes of pens, so the total is 5 x 10 = 50 boxes of pens.\nStep 2: Chris has 50 boxes of pens left.\n#### 50",
+    "final_answer": 33
+  },
+  {
+    "problem": "Priya has 4 groups of coins, with 11 coins in each group. Priya gives away 32 coins. How many coins does Priya have left?",
+    "correct_solution": "Step 1: Priya starts with 4 groups of 11 coins, so the total is 4 x 11 = 44 coins.\nStep 2: Priya gives away 32 coins, so 44 - 32 = 12 coins.\n#### 12",
+    "wrong_solution": "Step 1: Priya has 4 groups of 11 coins, so the total is 4 x 11 = 44 coins.\nStep 2: Priya has 44 coins left.\n#### 44",
+    "final_answer": 12
+  },
+  {
+    "problem": "Priya has 5 groups of notebooks, with 4 notebooks in each group. Priya gives away 10 notebooks. How many notebooks does Priya have left?",
+    "correct_solution": "Step 1: Priya starts with 5 groups of 4 notebooks, so the total is 5 x 4 = 20 notebooks.\nStep 2: Priya gives away 10 notebooks, so 20 - 10 = 10 notebooks.\n#### 10",
+    "wrong_solution": "Step 1: Priya has 5 groups of 4 notebooks, so the total is 5 x 4 = 20 notebooks.\nStep 2: Priya has 20 notebooks left.\n#### 20",
+    "final_answer": 10
+  },
+  {
+    "problem": "Priya has 4 groups of notebooks, with 8 notebooks in each group. Priya gives away 29 notebooks. How many notebooks does Priya have left?",
+    "correct_solution": "Step 1: Priya starts with 4 groups of 8 notebooks, so the total is 4 x 8 = 32 notebooks.\nStep 2: Priya gives away 29 notebooks, so 32 - 29 = 3 notebooks.\n#### 3",
+    "wrong_solution": "Step 1: Priya has 4 groups of 8 notebooks, so the total is 4 x 8 = 32 notebooks.\nStep 2: Priya has 32 notebooks left.\n#### 32",
+    "final_answer": 3
+  },
+  {
+    "problem": "Alex has 3 groups of boxes of pens, with 6 boxes of pens in each group. Alex gives away 13 boxes of pens. How many boxes of pens does Alex have left?",
+    "correct_solution": "Step 1: Alex starts with 3 groups of 6 boxes of pens, so the total is 3 x 6 = 18 boxes of pens.\nStep 2: Alex gives away 13 boxes of pens, so 18 - 13 = 5 boxes of pens.\n#### 5",
+    "wrong_solution": "Step 1: Alex has 3 groups of 6 boxes of pens, so the total is 3 x 6 = 18 boxes of pens.\nStep 2: Alex has 18 boxes of pens left.\n#### 18",
+    "final_answer": 5
+  },
+  {
+    "problem": "Jordan has 3 groups of coins, with 4 coins in each group. Jordan gives away 7 coins. How many coins does Jordan have left?",
+    "correct_solution": "Step 1: Jordan starts with 3 groups of 4 coins, so the total is 3 x 4 = 12 coins.\nStep 2: Jordan gives away 7 coins, so 12 - 7 = 5 coins.\n#### 5",
+    "wrong_solution": "Step 1: Jordan has 3 groups of 4 coins, so the total is 3 x 4 = 12 coins.\nStep 2: Jordan has 12 coins left.\n#### 12",
+    "final_answer": 5
+  },
+  {
+    "problem": "Morgan has 6 groups of notebooks, with 10 notebooks in each group. Morgan gives away 27 notebooks. How many notebooks does Morgan have left?",
+    "correct_solution": "Step 1: Morgan starts with 6 groups of 10 notebooks, so the total is 6 x 10 = 60 notebooks.\nStep 2: Morgan gives away 27 notebooks, so 60 - 27 = 33 notebooks.\n#### 33",
+    "wrong_solution": "Step 1: Morgan has 6 groups of 10 notebooks, so the total is 6 x 10 = 60 notebooks.\nStep 2: Morgan has 60 notebooks left.\n#### 60",
+    "final_answer": 33
+  },
+  {
+    "problem": "Sarah has 5 groups of boxes of pens, with 9 boxes of pens in each group. Sarah gives away 38 boxes of pens. How many boxes of pens does Sarah have left?",
+    "correct_solution": "Step 1: Sarah starts with 5 groups of 9 boxes of pens, so the total is 5 x 9 = 45 boxes of pens.\nStep 2: Sarah gives away 38 boxes of pens, so 45 - 38 = 7 boxes of pens.\n#### 7",
+    "wrong_solution": "Step 1: Sarah has 5 groups of 9 boxes of pens, so the total is 5 x 9 = 45 boxes of pens.\nStep 2: Sarah has 45 boxes of pens left.\n#### 45",
+    "final_answer": 7
+  },
+  {
+    "problem": "Sarah has 5 groups of marbles, with 10 marbles in each group. Sarah gives away 1 marbles. How many marbles does Sarah have left?",
+    "correct_solution": "Step 1: Sarah starts with 5 groups of 10 marbles, so the total is 5 x 10 = 50 marbles.\nStep 2: Sarah gives away 1 marbles, so 50 - 1 = 49 marbles.\n#### 49",
+    "wrong_solution": "Step 1: Sarah has 5 groups of 10 marbles, so the total is 5 x 10 = 50 marbles.\nStep 2: Sarah has 50 marbles left.\n#### 50",
+    "final_answer": 49
+  },
+  {
+    "problem": "Taylor has 5 groups of notebooks, with 9 notebooks in each group. Taylor gives away 35 notebooks. How many notebooks does Taylor have left?",
+    "correct_solution": "Step 1: Taylor starts with 5 groups of 9 notebooks, so the total is 5 x 9 = 45 notebooks.\nStep 2: Taylor gives away 35 notebooks, so 45 - 35 = 10 notebooks.\n#### 10",
+    "wrong_solution": "Step 1: Taylor has 5 groups of 9 notebooks, so the total is 5 x 9 = 45 notebooks.\nStep 2: Taylor has 45 notebooks left.\n#### 45",
+    "final_answer": 10
+  },
+  {
+    "problem": "Priya has 3 groups of stickers, with 7 stickers in each group. Priya gives away 14 stickers. How many stickers does Priya have left?",
+    "correct_solution": "Step 1: Priya starts with 3 groups of 7 stickers, so the total is 3 x 7 = 21 stickers.\nStep 2: Priya gives away 14 stickers, so 21 - 14 = 7 stickers.\n#### 7",
+    "wrong_solution": "Step 1: Priya has 3 groups of 7 stickers, so the total is 3 x 7 = 21 stickers.\nStep 2: Priya has 21 stickers left.\n#### 21",
+    "final_answer": 7
+  },
+  {
+    "problem": "Chris has 5 groups of apples, with 8 apples in each group. Chris gives away 26 apples. How many apples does Chris have left?",
+    "correct_solution": "Step 1: Chris starts with 5 groups of 8 apples, so the total is 5 x 8 = 40 apples.\nStep 2: Chris gives away 26 apples, so 40 - 26 = 14 apples.\n#### 14",
+    "wrong_solution": "Step 1: Chris has 5 groups of 8 apples, so the total is 5 x 8 = 40 apples.\nStep 2: Chris has 40 apples left.\n#### 40",
+    "final_answer": 14
+  },
+  {
+    "problem": "Jordan has 3 groups of stickers, with 12 stickers in each group. Jordan gives away 35 stickers. How many stickers does Jordan have left?",
+    "correct_solution": "Step 1: Jordan starts with 3 groups of 12 stickers, so the total is 3 x 12 = 36 stickers.\nStep 2: Jordan gives away 35 stickers, so 36 - 35 = 1 stickers.\n#### 1",
+    "wrong_solution": "Step 1: Jordan has 3 groups of 12 stickers, so the total is 3 x 12 = 36 stickers.\nStep 2: Jordan has 36 stickers left.\n#### 36",
+    "final_answer": 1
+  },
+  {
+    "problem": "Sarah has 6 groups of stickers, with 12 stickers in each group. Sarah gives away 4 stickers. How many stickers does Sarah have left?",
+    "correct_solution": "Step 1: Sarah starts with 6 groups of 12 stickers, so the total is 6 x 12 = 72 stickers.\nStep 2: Sarah gives away 4 stickers, so 72 - 4 = 68 stickers.\n#### 68",
+    "wrong_solution": "Step 1: Sarah has 6 groups of 12 stickers, so the total is 6 x 12 = 72 stickers.\nStep 2: Sarah has 72 stickers left.\n#### 72",
+    "final_answer": 68
+  },
+  {
+    "problem": "Alex has 5 groups of coins, with 5 coins in each group. Alex gives away 15 coins. How many coins does Alex have left?",
+    "correct_solution": "Step 1: Alex starts with 5 groups of 5 coins, so the total is 5 x 5 = 25 coins.\nStep 2: Alex gives away 15 coins, so 25 - 15 = 10 coins.\n#### 10",
+    "wrong_solution": "Step 1: Alex has 5 groups of 5 coins, so the total is 5 x 5 = 25 coins.\nStep 2: Alex has 25 coins left.\n#### 25",
+    "final_answer": 10
+  },
+  {
+    "problem": "Jordan has 4 groups of apples, with 9 apples in each group. Jordan gives away 21 apples. How many apples does Jordan have left?",
+    "correct_solution": "Step 1: Jordan starts with 4 groups of 9 apples, so the total is 4 x 9 = 36 apples.\nStep 2: Jordan gives away 21 apples, so 36 - 21 = 15 apples.\n#### 15",
+    "wrong_solution": "Step 1: Jordan has 4 groups of 9 apples, so the total is 4 x 9 = 36 apples.\nStep 2: Jordan has 36 apples left.\n#### 36",
+    "final_answer": 15
+  },
+  {
+    "problem": "Priya has 4 groups of stickers, with 8 stickers in each group. Priya gives away 25 stickers. How many stickers does Priya have left?",
+    "correct_solution": "Step 1: Priya starts with 4 groups of 8 stickers, so the total is 4 x 8 = 32 stickers.\nStep 2: Priya gives away 25 stickers, so 32 - 25 = 7 stickers.\n#### 7",
+    "wrong_solution": "Step 1: Priya has 4 groups of 8 stickers, so the total is 4 x 8 = 32 stickers.\nStep 2: Priya has 32 stickers left.\n#### 32",
+    "final_answer": 7
+  },
+  {
+    "problem": "Morgan has 5 groups of notebooks, with 7 notebooks in each group. Morgan gives away 6 notebooks. How many notebooks does Morgan have left?",
+    "correct_solution": "Step 1: Morgan starts with 5 groups of 7 notebooks, so the total is 5 x 7 = 35 notebooks.\nStep 2: Morgan gives away 6 notebooks, so 35 - 6 = 29 notebooks.\n#### 29",
+    "wrong_solution": "Step 1: Morgan has 5 groups of 7 notebooks, so the total is 5 x 7 = 35 notebooks.\nStep 2: Morgan has 35 notebooks left.\n#### 35",
+    "final_answer": 29
+  },
+  {
+    "problem": "Chris has 6 groups of apples, with 3 apples in each group. Chris gives away 12 apples. How many apples does Chris have left?",
+    "correct_solution": "Step 1: Chris starts with 6 groups of 3 apples, so the total is 6 x 3 = 18 apples.\nStep 2: Chris gives away 12 apples, so 18 - 12 = 6 apples.\n#### 6",
+    "wrong_solution": "Step 1: Chris has 6 groups of 3 apples, so the total is 6 x 3 = 18 apples.\nStep 2: Chris has 18 apples left.\n#### 18",
+    "final_answer": 6
+  },
+  {
+    "problem": "Priya has 2 groups of coins, with 3 coins in each group. Priya gives away 1 coins. How many coins does Priya have left?",
+    "correct_solution": "Step 1: Priya starts with 2 groups of 3 coins, so the total is 2 x 3 = 6 coins.\nStep 2: Priya gives away 1 coins, so 6 - 1 = 5 coins.\n#### 5",
+    "wrong_solution": "Step 1: Priya has 2 groups of 3 coins, so the total is 2 x 3 = 6 coins.\nStep 2: Priya has 6 coins left.\n#### 6",
+    "final_answer": 5
+  },
+  {
+    "problem": "Priya has 2 groups of boxes of pens, with 12 boxes of pens in each group. Priya gives away 5 boxes of pens. How many boxes of pens does Priya have left?",
+    "correct_solution": "Step 1: Priya starts with 2 groups of 12 boxes of pens, so the total is 2 x 12 = 24 boxes of pens.\nStep 2: Priya gives away 5 boxes of pens, so 24 - 5 = 19 boxes of pens.\n#### 19",
+    "wrong_solution": "Step 1: Priya has 2 groups of 12 boxes of pens, so the total is 2 x 12 = 24 boxes of pens.\nStep 2: Priya has 24 boxes of pens left.\n#### 24",
+    "final_answer": 19
+  },
+  {
+    "problem": "Priya has 5 groups of boxes of pens, with 4 boxes of pens in each group. Priya gives away 19 boxes of pens. How many boxes of pens does Priya have left?",
+    "correct_solution": "Step 1: Priya starts with 5 groups of 4 boxes of pens, so the total is 5 x 4 = 20 boxes of pens.\nStep 2: Priya gives away 19 boxes of pens, so 20 - 19 = 1 boxes of pens.\n#### 1",
+    "wrong_solution": "Step 1: Priya has 5 groups of 4 boxes of pens, so the total is 5 x 4 = 20 boxes of pens.\nStep 2: Priya has 20 boxes of pens left.\n#### 20",
+    "final_answer": 1
+  },
+  {
+    "problem": "Priya has 4 groups of stickers, with 8 stickers in each group. Priya gives away 6 stickers. How many stickers does Priya have left?",
+    "correct_solution": "Step 1: Priya starts with 4 groups of 8 stickers, so the total is 4 x 8 = 32 stickers.\nStep 2: Priya gives away 6 stickers, so 32 - 6 = 26 stickers.\n#### 26",
+    "wrong_solution": "Step 1: Priya has 4 groups of 8 stickers, so the total is 4 x 8 = 32 stickers.\nStep 2: Priya has 32 stickers left.\n#### 32",
+    "final_answer": 26
+  },
+  {
+    "problem": "Alex has 4 groups of boxes of pens, with 4 boxes of pens in each group. Alex gives away 10 boxes of pens. How many boxes of pens does Alex have left?",
+    "correct_solution": "Step 1: Alex starts with 4 groups of 4 boxes of pens, so the total is 4 x 4 = 16 boxes of pens.\nStep 2: Alex gives away 10 boxes of pens, so 16 - 10 = 6 boxes of pens.\n#### 6",
+    "wrong_solution": "Step 1: Alex has 4 groups of 4 boxes of pens, so the total is 4 x 4 = 16 boxes of pens.\nStep 2: Alex has 16 boxes of pens left.\n#### 16",
+    "final_answer": 6
+  },
+  {
+    "problem": "Sarah has 6 groups of notebooks, with 9 notebooks in each group. Sarah gives away 26 notebooks. How many notebooks does Sarah have left?",
+    "correct_solution": "Step 1: Sarah starts with 6 groups of 9 notebooks, so the total is 6 x 9 = 54 notebooks.\nStep 2: Sarah gives away 26 notebooks, so 54 - 26 = 28 notebooks.\n#### 28",
+    "wrong_solution": "Step 1: Sarah has 6 groups of 9 notebooks, so the total is 6 x 9 = 54 notebooks.\nStep 2: Sarah has 54 notebooks left.\n#### 54",
+    "final_answer": 28
+  },
+  {
+    "problem": "Priya has 6 groups of apples, with 6 apples in each group. Priya gives away 7 apples. How many apples does Priya have left?",
+    "correct_solution": "Step 1: Priya starts with 6 groups of 6 apples, so the total is 6 x 6 = 36 apples.\nStep 2: Priya gives away 7 apples, so 36 - 7 = 29 apples.\n#### 29",
+    "wrong_solution": "Step 1: Priya has 6 groups of 6 apples, so the total is 6 x 6 = 36 apples.\nStep 2: Priya has 36 apples left.\n#### 36",
+    "final_answer": 29
+  },
+  {
+    "problem": "Sam has 6 groups of coins, with 4 coins in each group. Sam gives away 19 coins. How many coins does Sam have left?",
+    "correct_solution": "Step 1: Sam starts with 6 groups of 4 coins, so the total is 6 x 4 = 24 coins.\nStep 2: Sam gives away 19 coins, so 24 - 19 = 5 coins.\n#### 5",
+    "wrong_solution": "Step 1: Sam has 6 groups of 4 coins, so the total is 6 x 4 = 24 coins.\nStep 2: Sam has 24 coins left.\n#### 24",
+    "final_answer": 5
+  },
+  {
+    "problem": "Sarah has 6 groups of notebooks, with 9 notebooks in each group. Sarah gives away 43 notebooks. How many notebooks does Sarah have left?",
+    "correct_solution": "Step 1: Sarah starts with 6 groups of 9 notebooks, so the total is 6 x 9 = 54 notebooks.\nStep 2: Sarah gives away 43 notebooks, so 54 - 43 = 11 notebooks.\n#### 11",
+    "wrong_solution": "Step 1: Sarah has 6 groups of 9 notebooks, so the total is 6 x 9 = 54 notebooks.\nStep 2: Sarah has 54 notebooks left.\n#### 54",
+    "final_answer": 11
+  },
+  {
+    "problem": "Taylor has 6 groups of apples, with 8 apples in each group. Taylor gives away 1 apples. How many apples does Taylor have left?",
+    "correct_solution": "Step 1: Taylor starts with 6 groups of 8 apples, so the total is 6 x 8 = 48 apples.\nStep 2: Taylor gives away 1 apples, so 48 - 1 = 47 apples.\n#### 47",
+    "wrong_solution": "Step 1: Taylor has 6 groups of 8 apples, so the total is 6 x 8 = 48 apples.\nStep 2: Taylor has 48 apples left.\n#### 48",
+    "final_answer": 47
+  },
+  {
+    "problem": "Morgan has 2 groups of stickers, with 9 stickers in each group. Morgan gives away 12 stickers. How many stickers does Morgan have left?",
+    "correct_solution": "Step 1: Morgan starts with 2 groups of 9 stickers, so the total is 2 x 9 = 18 stickers.\nStep 2: Morgan gives away 12 stickers, so 18 - 12 = 6 stickers.\n#### 6",
+    "wrong_solution": "Step 1: Morgan has 2 groups of 9 stickers, so the total is 2 x 9 = 18 stickers.\nStep 2: Morgan has 18 stickers left.\n#### 18",
+    "final_answer": 6
+  },
+  {
+    "problem": "Chris has 3 groups of coins, with 9 coins in each group. Chris gives away 6 coins. How many coins does Chris have left?",
+    "correct_solution": "Step 1: Chris starts with 3 groups of 9 coins, so the total is 3 x 9 = 27 coins.\nStep 2: Chris gives away 6 coins, so 27 - 6 = 21 coins.\n#### 21",
+    "wrong_solution": "Step 1: Chris has 3 groups of 9 coins, so the total is 3 x 9 = 27 coins.\nStep 2: Chris has 27 coins left.\n#### 27",
+    "final_answer": 21
+  },
+  {
+    "problem": "Sam has 6 groups of marbles, with 10 marbles in each group. Sam gives away 30 marbles. How many marbles does Sam have left?",
+    "correct_solution": "Step 1: Sam starts with 6 groups of 10 marbles, so the total is 6 x 10 = 60 marbles.\nStep 2: Sam gives away 30 marbles, so 60 - 30 = 30 marbles.\n#### 30",
+    "wrong_solution": "Step 1: Sam has 6 groups of 10 marbles, so the total is 6 x 10 = 60 marbles.\nStep 2: Sam has 60 marbles left.\n#### 60",
+    "final_answer": 30
+  },
+  {
+    "problem": "Morgan has 6 groups of coins, with 7 coins in each group. Morgan gives away 21 coins. How many coins does Morgan have left?",
+    "correct_solution": "Step 1: Morgan starts with 6 groups of 7 coins, so the total is 6 x 7 = 42 coins.\nStep 2: Morgan gives away 21 coins, so 42 - 21 = 21 coins.\n#### 21",
+    "wrong_solution": "Step 1: Morgan has 6 groups of 7 coins, so the total is 6 x 7 = 42 coins.\nStep 2: Morgan has 42 coins left.\n#### 42",
+    "final_answer": 21
+  },
+  {
+    "problem": "Priya has 4 groups of apples, with 10 apples in each group. Priya gives away 16 apples. How many apples does Priya have left?",
+    "correct_solution": "Step 1: Priya starts with 4 groups of 10 apples, so the total is 4 x 10 = 40 apples.\nStep 2: Priya gives away 16 apples, so 40 - 16 = 24 apples.\n#### 24",
+    "wrong_solution": "Step 1: Priya has 4 groups of 10 apples, so the total is 4 x 10 = 40 apples.\nStep 2: Priya has 40 apples left.\n#### 40",
+    "final_answer": 24
+  },
+  {
+    "problem": "Chris has 6 groups of marbles, with 9 marbles in each group. Chris gives away 22 marbles. How many marbles does Chris have left?",
+    "correct_solution": "Step 1: Chris starts with 6 groups of 9 marbles, so the total is 6 x 9 = 54 marbles.\nStep 2: Chris gives away 22 marbles, so 54 - 22 = 32 marbles.\n#### 32",
+    "wrong_solution": "Step 1: Chris has 6 groups of 9 marbles, so the total is 6 x 9 = 54 marbles.\nStep 2: Chris has 54 marbles left.\n#### 54",
+    "final_answer": 32
+  },
+  {
+    "problem": "Sarah has 4 groups of stickers, with 5 stickers in each group. Sarah gives away 16 stickers. How many stickers does Sarah have left?",
+    "correct_solution": "Step 1: Sarah starts with 4 groups of 5 stickers, so the total is 4 x 5 = 20 stickers.\nStep 2: Sarah gives away 16 stickers, so 20 - 16 = 4 stickers.\n#### 4",
+    "wrong_solution": "Step 1: Sarah has 4 groups of 5 stickers, so the total is 4 x 5 = 20 stickers.\nStep 2: Sarah has 20 stickers left.\n#### 20",
+    "final_answer": 4
+  },
+  {
+    "problem": "Priya has 4 groups of notebooks, with 8 notebooks in each group. Priya gives away 9 notebooks. How many notebooks does Priya have left?",
+    "correct_solution": "Step 1: Priya starts with 4 groups of 8 notebooks, so the total is 4 x 8 = 32 notebooks.\nStep 2: Priya gives away 9 notebooks, so 32 - 9 = 23 notebooks.\n#### 23",
+    "wrong_solution": "Step 1: Priya has 4 groups of 8 notebooks, so the total is 4 x 8 = 32 notebooks.\nStep 2: Priya has 32 notebooks left.\n#### 32",
+    "final_answer": 23
+  },
+  {
+    "problem": "Sam has 2 groups of marbles, with 11 marbles in each group. Sam gives away 7 marbles. How many marbles does Sam have left?",
+    "correct_solution": "Step 1: Sam starts with 2 groups of 11 marbles, so the total is 2 x 11 = 22 marbles.\nStep 2: Sam gives away 7 marbles, so 22 - 7 = 15 marbles.\n#### 15",
+    "wrong_solution": "Step 1: Sam has 2 groups of 11 marbles, so the total is 2 x 11 = 22 marbles.\nStep 2: Sam has 22 marbles left.\n#### 22",
+    "final_answer": 15
+  },
+  {
+    "problem": "Alex has 5 groups of boxes of pens, with 10 boxes of pens in each group. Alex gives away 36 boxes of pens. How many boxes of pens does Alex have left?",
+    "correct_solution": "Step 1: Alex starts with 5 groups of 10 boxes of pens, so the total is 5 x 10 = 50 boxes of pens.\nStep 2: Alex gives away 36 boxes of pens, so 50 - 36 = 14 boxes of pens.\n#### 14",
+    "wrong_solution": "Step 1: Alex has 5 groups of 10 boxes of pens, so the total is 5 x 10 = 50 boxes of pens.\nStep 2: Alex has 50 boxes of pens left.\n#### 50",
+    "final_answer": 14
+  },
+  {
+    "problem": "Priya has 5 groups of coins, with 10 coins in each group. Priya gives away 29 coins. How many coins does Priya have left?",
+    "correct_solution": "Step 1: Priya starts with 5 groups of 10 coins, so the total is 5 x 10 = 50 coins.\nStep 2: Priya gives away 29 coins, so 50 - 29 = 21 coins.\n#### 21",
+    "wrong_solution": "Step 1: Priya has 5 groups of 10 coins, so the total is 5 x 10 = 50 coins.\nStep 2: Priya has 50 coins left.\n#### 50",
+    "final_answer": 21
+  },
+  {
+    "problem": "Sarah has 4 groups of apples, with 6 apples in each group. Sarah gives away 13 apples. How many apples does Sarah have left?",
+    "correct_solution": "Step 1: Sarah starts with 4 groups of 6 apples, so the total is 4 x 6 = 24 apples.\nStep 2: Sarah gives away 13 apples, so 24 - 13 = 11 apples.\n#### 11",
+    "wrong_solution": "Step 1: Sarah has 4 groups of 6 apples, so the total is 4 x 6 = 24 apples.\nStep 2: Sarah has 24 apples left.\n#### 24",
+    "final_answer": 11
+  },
+  {
+    "problem": "Priya has 6 groups of notebooks, with 8 notebooks in each group. Priya gives away 31 notebooks. How many notebooks does Priya have left?",
+    "correct_solution": "Step 1: Priya starts with 6 groups of 8 notebooks, so the total is 6 x 8 = 48 notebooks.\nStep 2: Priya gives away 31 notebooks, so 48 - 31 = 17 notebooks.\n#### 17",
+    "wrong_solution": "Step 1: Priya has 6 groups of 8 notebooks, so the total is 6 x 8 = 48 notebooks.\nStep 2: Priya has 48 notebooks left.\n#### 48",
+    "final_answer": 17
+  },
+  {
+    "problem": "Taylor has 6 groups of stickers, with 8 stickers in each group. Taylor gives away 23 stickers. How many stickers does Taylor have left?",
+    "correct_solution": "Step 1: Taylor starts with 6 groups of 8 stickers, so the total is 6 x 8 = 48 stickers.\nStep 2: Taylor gives away 23 stickers, so 48 - 23 = 25 stickers.\n#### 25",
+    "wrong_solution": "Step 1: Taylor has 6 groups of 8 stickers, so the total is 6 x 8 = 48 stickers.\nStep 2: Taylor has 48 stickers left.\n#### 48",
+    "final_answer": 25
+  },
+  {
+    "problem": "Chris has 4 groups of notebooks, with 7 notebooks in each group. Chris gives away 8 notebooks. How many notebooks does Chris have left?",
+    "correct_solution": "Step 1: Chris starts with 4 groups of 7 notebooks, so the total is 4 x 7 = 28 notebooks.\nStep 2: Chris gives away 8 notebooks, so 28 - 8 = 20 notebooks.\n#### 20",
+    "wrong_solution": "Step 1: Chris has 4 groups of 7 notebooks, so the total is 4 x 7 = 28 notebooks.\nStep 2: Chris has 28 notebooks left.\n#### 28",
+    "final_answer": 20
+  },
+  {
+    "problem": "Alex has 3 groups of coins, with 8 coins in each group. Alex gives away 4 coins. How many coins does Alex have left?",
+    "correct_solution": "Step 1: Alex starts with 3 groups of 8 coins, so the total is 3 x 8 = 24 coins.\nStep 2: Alex gives away 4 coins, so 24 - 4 = 20 coins.\n#### 20",
+    "wrong_solution": "Step 1: Alex has 3 groups of 8 coins, so the total is 3 x 8 = 24 coins.\nStep 2: Alex has 24 coins left.\n#### 24",
+    "final_answer": 20
+  },
+  {
+    "problem": "Jordan has 3 groups of boxes of pens, with 10 boxes of pens in each group. Jordan gives away 9 boxes of pens. How many boxes of pens does Jordan have left?",
+    "correct_solution": "Step 1: Jordan starts with 3 groups of 10 boxes of pens, so the total is 3 x 10 = 30 boxes of pens.\nStep 2: Jordan gives away 9 boxes of pens, so 30 - 9 = 21 boxes of pens.\n#### 21",
+    "wrong_solution": "Step 1: Jordan has 3 groups of 10 boxes of pens, so the total is 3 x 10 = 30 boxes of pens.\nStep 2: Jordan has 30 boxes of pens left.\n#### 30",
+    "final_answer": 21
+  },
+  {
+    "problem": "Sam has 3 groups of apples, with 7 apples in each group. Sam gives away 8 apples. How many apples does Sam have left?",
+    "correct_solution": "Step 1: Sam starts with 3 groups of 7 apples, so the total is 3 x 7 = 21 apples.\nStep 2: Sam gives away 8 apples, so 21 - 8 = 13 apples.\n#### 13",
+    "wrong_solution": "Step 1: Sam has 3 groups of 7 apples, so the total is 3 x 7 = 21 apples.\nStep 2: Sam has 21 apples left.\n#### 21",
+    "final_answer": 13
+  },
+  {
+    "problem": "Taylor has 4 groups of boxes of pens, with 3 boxes of pens in each group. Taylor gives away 9 boxes of pens. How many boxes of pens does Taylor have left?",
+    "correct_solution": "Step 1: Taylor starts with 4 groups of 3 boxes of pens, so the total is 4 x 3 = 12 boxes of pens.\nStep 2: Taylor gives away 9 boxes of pens, so 12 - 9 = 3 boxes of pens.\n#### 3",
+    "wrong_solution": "Step 1: Taylor has 4 groups of 3 boxes of pens, so the total is 4 x 3 = 12 boxes of pens.\nStep 2: Taylor has 12 boxes of pens left.\n#### 12",
+    "final_answer": 3
+  },
+  {
+    "problem": "Jordan has 2 groups of notebooks, with 3 notebooks in each group. Jordan gives away 5 notebooks. How many notebooks does Jordan have left?",
+    "correct_solution": "Step 1: Jordan starts with 2 groups of 3 notebooks, so the total is 2 x 3 = 6 notebooks.\nStep 2: Jordan gives away 5 notebooks, so 6 - 5 = 1 notebooks.\n#### 1",
+    "wrong_solution": "Step 1: Jordan has 2 groups of 3 notebooks, so the total is 2 x 3 = 6 notebooks.\nStep 2: Jordan has 6 notebooks left.\n#### 6",
+    "final_answer": 1
+  },
+  {
+    "problem": "Sam has 3 groups of coins, with 10 coins in each group. Sam gives away 4 coins. How many coins does Sam have left?",
+    "correct_solution": "Step 1: Sam starts with 3 groups of 10 coins, so the total is 3 x 10 = 30 coins.\nStep 2: Sam gives away 4 coins, so 30 - 4 = 26 coins.\n#### 26",
+    "wrong_solution": "Step 1: Sam has 3 groups of 10 coins, so the total is 3 x 10 = 30 coins.\nStep 2: Sam has 30 coins left.\n#### 30",
+    "final_answer": 26
+  },
+  {
+    "problem": "Sarah has 4 groups of marbles, with 10 marbles in each group. Sarah gives away 31 marbles. How many marbles does Sarah have left?",
+    "correct_solution": "Step 1: Sarah starts with 4 groups of 10 marbles, so the total is 4 x 10 = 40 marbles.\nStep 2: Sarah gives away 31 marbles, so 40 - 31 = 9 marbles.\n#### 9",
+    "wrong_solution": "Step 1: Sarah has 4 groups of 10 marbles, so the total is 4 x 10 = 40 marbles.\nStep 2: Sarah has 40 marbles left.\n#### 40",
+    "final_answer": 9
+  },
+  {
+    "problem": "Chris has 3 groups of notebooks, with 3 notebooks in each group. Chris gives away 5 notebooks. How many notebooks does Chris have left?",
+    "correct_solution": "Step 1: Chris starts with 3 groups of 3 notebooks, so the total is 3 x 3 = 9 notebooks.\nStep 2: Chris gives away 5 notebooks, so 9 - 5 = 4 notebooks.\n#### 4",
+    "wrong_solution": "Step 1: Chris has 3 groups of 3 notebooks, so the total is 3 x 3 = 9 notebooks.\nStep 2: Chris has 9 notebooks left.\n#### 9",
+    "final_answer": 4
+  },
+  {
+    "problem": "Chris has 2 groups of apples, with 9 apples in each group. Chris gives away 16 apples. How many apples does Chris have left?",
+    "correct_solution": "Step 1: Chris starts with 2 groups of 9 apples, so the total is 2 x 9 = 18 apples.\nStep 2: Chris gives away 16 apples, so 18 - 16 = 2 apples.\n#### 2",
+    "wrong_solution": "Step 1: Chris has 2 groups of 9 apples, so the total is 2 x 9 = 18 apples.\nStep 2: Chris has 18 apples left.\n#### 18",
+    "final_answer": 2
+  },
+  {
+    "problem": "Alex has 2 groups of marbles, with 5 marbles in each group. Alex gives away 3 marbles. How many marbles does Alex have left?",
+    "correct_solution": "Step 1: Alex starts with 2 groups of 5 marbles, so the total is 2 x 5 = 10 marbles.\nStep 2: Alex gives away 3 marbles, so 10 - 3 = 7 marbles.\n#### 7",
+    "wrong_solution": "Step 1: Alex has 2 groups of 5 marbles, so the total is 2 x 5 = 10 marbles.\nStep 2: Alex has 10 marbles left.\n#### 10",
+    "final_answer": 7
+  },
+  {
+    "problem": "Sam has 3 groups of apples, with 4 apples in each group. Sam gives away 9 apples. How many apples does Sam have left?",
+    "correct_solution": "Step 1: Sam starts with 3 groups of 4 apples, so the total is 3 x 4 = 12 apples.\nStep 2: Sam gives away 9 apples, so 12 - 9 = 3 apples.\n#### 3",
+    "wrong_solution": "Step 1: Sam has 3 groups of 4 apples, so the total is 3 x 4 = 12 apples.\nStep 2: Sam has 12 apples left.\n#### 12",
+    "final_answer": 3
+  },
+  {
+    "problem": "Morgan has 6 groups of marbles, with 12 marbles in each group. Morgan gives away 29 marbles. How many marbles does Morgan have left?",
+    "correct_solution": "Step 1: Morgan starts with 6 groups of 12 marbles, so the total is 6 x 12 = 72 marbles.\nStep 2: Morgan gives away 29 marbles, so 72 - 29 = 43 marbles.\n#### 43",
+    "wrong_solution": "Step 1: Morgan has 6 groups of 12 marbles, so the total is 6 x 12 = 72 marbles.\nStep 2: Morgan has 72 marbles left.\n#### 72",
+    "final_answer": 43
+  },
+  {
+    "problem": "Morgan has 5 groups of stickers, with 7 stickers in each group. Morgan gives away 28 stickers. How many stickers does Morgan have left?",
+    "correct_solution": "Step 1: Morgan starts with 5 groups of 7 stickers, so the total is 5 x 7 = 35 stickers.\nStep 2: Morgan gives away 28 stickers, so 35 - 28 = 7 stickers.\n#### 7",
+    "wrong_solution": "Step 1: Morgan has 5 groups of 7 stickers, so the total is 5 x 7 = 35 stickers.\nStep 2: Morgan has 35 stickers left.\n#### 35",
+    "final_answer": 7
+  },
+  {
+    "problem": "Sam has 6 groups of marbles, with 3 marbles in each group. Sam gives away 4 marbles. How many marbles does Sam have left?",
+    "correct_solution": "Step 1: Sam starts with 6 groups of 3 marbles, so the total is 6 x 3 = 18 marbles.\nStep 2: Sam gives away 4 marbles, so 18 - 4 = 14 marbles.\n#### 14",
+    "wrong_solution": "Step 1: Sam has 6 groups of 3 marbles, so the total is 6 x 3 = 18 marbles.\nStep 2: Sam has 18 marbles left.\n#### 18",
+    "final_answer": 14
+  },
+  {
+    "problem": "Priya has 3 groups of coins, with 7 coins in each group. Priya gives away 3 coins. How many coins does Priya have left?",
+    "correct_solution": "Step 1: Priya starts with 3 groups of 7 coins, so the total is 3 x 7 = 21 coins.\nStep 2: Priya gives away 3 coins, so 21 - 3 = 18 coins.\n#### 18",
+    "wrong_solution": "Step 1: Priya has 3 groups of 7 coins, so the total is 3 x 7 = 21 coins.\nStep 2: Priya has 21 coins left.\n#### 21",
+    "final_answer": 18
+  },
+  {
+    "problem": "Jordan has 3 groups of boxes of pens, with 11 boxes of pens in each group. Jordan gives away 5 boxes of pens. How many boxes of pens does Jordan have left?",
+    "correct_solution": "Step 1: Jordan starts with 3 groups of 11 boxes of pens, so the total is 3 x 11 = 33 boxes of pens.\nStep 2: Jordan gives away 5 boxes of pens, so 33 - 5 = 28 boxes of pens.\n#### 28",
+    "wrong_solution": "Step 1: Jordan has 3 groups of 11 boxes of pens, so the total is 3 x 11 = 33 boxes of pens.\nStep 2: Jordan has 33 boxes of pens left.\n#### 33",
+    "final_answer": 28
+  },
+  {
+    "problem": "Jordan has 5 groups of apples, with 10 apples in each group. Jordan gives away 45 apples. How many apples does Jordan have left?",
+    "correct_solution": "Step 1: Jordan starts with 5 groups of 10 apples, so the total is 5 x 10 = 50 apples.\nStep 2: Jordan gives away 45 apples, so 50 - 45 = 5 apples.\n#### 5",
+    "wrong_solution": "Step 1: Jordan has 5 groups of 10 apples, so the total is 5 x 10 = 50 apples.\nStep 2: Jordan has 50 apples left.\n#### 50",
+    "final_answer": 5
+  },
+  {
+    "problem": "Chris has 2 groups of notebooks, with 6 notebooks in each group. Chris gives away 5 notebooks. How many notebooks does Chris have left?",
+    "correct_solution": "Step 1: Chris starts with 2 groups of 6 notebooks, so the total is 2 x 6 = 12 notebooks.\nStep 2: Chris gives away 5 notebooks, so 12 - 5 = 7 notebooks.\n#### 7",
+    "wrong_solution": "Step 1: Chris has 2 groups of 6 notebooks, so the total is 2 x 6 = 12 notebooks.\nStep 2: Chris has 12 notebooks left.\n#### 12",
+    "final_answer": 7
+  },
+  {
+    "problem": "Sam has 5 groups of coins, with 4 coins in each group. Sam gives away 8 coins. How many coins does Sam have left?",
+    "correct_solution": "Step 1: Sam starts with 5 groups of 4 coins, so the total is 5 x 4 = 20 coins.\nStep 2: Sam gives away 8 coins, so 20 - 8 = 12 coins.\n#### 12",
+    "wrong_solution": "Step 1: Sam has 5 groups of 4 coins, so the total is 5 x 4 = 20 coins.\nStep 2: Sam has 20 coins left.\n#### 20",
+    "final_answer": 12
+  },
+  {
+    "problem": "Sam has 6 groups of coins, with 6 coins in each group. Sam gives away 28 coins. How many coins does Sam have left?",
+    "correct_solution": "Step 1: Sam starts with 6 groups of 6 coins, so the total is 6 x 6 = 36 coins.\nStep 2: Sam gives away 28 coins, so 36 - 28 = 8 coins.\n#### 8",
+    "wrong_solution": "Step 1: Sam has 6 groups of 6 coins, so the total is 6 x 6 = 36 coins.\nStep 2: Sam has 36 coins left.\n#### 36",
+    "final_answer": 8
+  },
+  {
+    "problem": "Alex has 3 groups of marbles, with 5 marbles in each group. Alex gives away 5 marbles. How many marbles does Alex have left?",
+    "correct_solution": "Step 1: Alex starts with 3 groups of 5 marbles, so the total is 3 x 5 = 15 marbles.\nStep 2: Alex gives away 5 marbles, so 15 - 5 = 10 marbles.\n#### 10",
+    "wrong_solution": "Step 1: Alex has 3 groups of 5 marbles, so the total is 3 x 5 = 15 marbles.\nStep 2: Alex has 15 marbles left.\n#### 15",
+    "final_answer": 10
+  },
+  {
+    "problem": "Jordan has 2 groups of apples, with 5 apples in each group. Jordan gives away 5 apples. How many apples does Jordan have left?",
+    "correct_solution": "Step 1: Jordan starts with 2 groups of 5 apples, so the total is 2 x 5 = 10 apples.\nStep 2: Jordan gives away 5 apples, so 10 - 5 = 5 apples.\n#### 5",
+    "wrong_solution": "Step 1: Jordan has 2 groups of 5 apples, so the total is 2 x 5 = 10 apples.\nStep 2: Jordan has 10 apples left.\n#### 10",
+    "final_answer": 5
+  },
+  {
+    "problem": "Sam has 2 groups of stickers, with 10 stickers in each group. Sam gives away 10 stickers. How many stickers does Sam have left?",
+    "correct_solution": "Step 1: Sam starts with 2 groups of 10 stickers, so the total is 2 x 10 = 20 stickers.\nStep 2: Sam gives away 10 stickers, so 20 - 10 = 10 stickers.\n#### 10",
+    "wrong_solution": "Step 1: Sam has 2 groups of 10 stickers, so the total is 2 x 10 = 20 stickers.\nStep 2: Sam has 20 stickers left.\n#### 20",
+    "final_answer": 10
+  },
+  {
+    "problem": "Morgan has 6 groups of notebooks, with 11 notebooks in each group. Morgan gives away 64 notebooks. How many notebooks does Morgan have left?",
+    "correct_solution": "Step 1: Morgan starts with 6 groups of 11 notebooks, so the total is 6 x 11 = 66 notebooks.\nStep 2: Morgan gives away 64 notebooks, so 66 - 64 = 2 notebooks.\n#### 2",
+    "wrong_solution": "Step 1: Morgan has 6 groups of 11 notebooks, so the total is 6 x 11 = 66 notebooks.\nStep 2: Morgan has 66 notebooks left.\n#### 66",
+    "final_answer": 2
+  },
+  {
+    "problem": "Chris has 6 groups of apples, with 3 apples in each group. Chris gives away 14 apples. How many apples does Chris have left?",
+    "correct_solution": "Step 1: Chris starts with 6 groups of 3 apples, so the total is 6 x 3 = 18 apples.\nStep 2: Chris gives away 14 apples, so 18 - 14 = 4 apples.\n#### 4",
+    "wrong_solution": "Step 1: Chris has 6 groups of 3 apples, so the total is 6 x 3 = 18 apples.\nStep 2: Chris has 18 apples left.\n#### 18",
+    "final_answer": 4
+  },
+  {
+    "problem": "Taylor has 4 groups of marbles, with 3 marbles in each group. Taylor gives away 2 marbles. How many marbles does Taylor have left?",
+    "correct_solution": "Step 1: Taylor starts with 4 groups of 3 marbles, so the total is 4 x 3 = 12 marbles.\nStep 2: Taylor gives away 2 marbles, so 12 - 2 = 10 marbles.\n#### 10",
+    "wrong_solution": "Step 1: Taylor has 4 groups of 3 marbles, so the total is 4 x 3 = 12 marbles.\nStep 2: Taylor has 12 marbles left.\n#### 12",
+    "final_answer": 10
+  },
+  {
+    "problem": "Priya has 6 groups of coins, with 12 coins in each group. Priya gives away 3 coins. How many coins does Priya have left?",
+    "correct_solution": "Step 1: Priya starts with 6 groups of 12 coins, so the total is 6 x 12 = 72 coins.\nStep 2: Priya gives away 3 coins, so 72 - 3 = 69 coins.\n#### 69",
+    "wrong_solution": "Step 1: Priya has 6 groups of 12 coins, so the total is 6 x 12 = 72 coins.\nStep 2: Priya has 72 coins left.\n#### 72",
+    "final_answer": 69
+  },
+  {
+    "problem": "Sam has 2 groups of marbles, with 5 marbles in each group. Sam gives away 8 marbles. How many marbles does Sam have left?",
+    "correct_solution": "Step 1: Sam starts with 2 groups of 5 marbles, so the total is 2 x 5 = 10 marbles.\nStep 2: Sam gives away 8 marbles, so 10 - 8 = 2 marbles.\n#### 2",
+    "wrong_solution": "Step 1: Sam has 2 groups of 5 marbles, so the total is 2 x 5 = 10 marbles.\nStep 2: Sam has 10 marbles left.\n#### 10",
+    "final_answer": 2
+  },
+  {
+    "problem": "Chris has 3 groups of notebooks, with 12 notebooks in each group. Chris gives away 28 notebooks. How many notebooks does Chris have left?",
+    "correct_solution": "Step 1: Chris starts with 3 groups of 12 notebooks, so the total is 3 x 12 = 36 notebooks.\nStep 2: Chris gives away 28 notebooks, so 36 - 28 = 8 notebooks.\n#### 8",
+    "wrong_solution": "Step 1: Chris has 3 groups of 12 notebooks, so the total is 3 x 12 = 36 notebooks.\nStep 2: Chris has 36 notebooks left.\n#### 36",
+    "final_answer": 8
+  },
+  {
+    "problem": "Chris has 5 groups of apples, with 8 apples in each group. Chris gives away 27 apples. How many apples does Chris have left?",
+    "correct_solution": "Step 1: Chris starts with 5 groups of 8 apples, so the total is 5 x 8 = 40 apples.\nStep 2: Chris gives away 27 apples, so 40 - 27 = 13 apples.\n#### 13",
+    "wrong_solution": "Step 1: Chris has 5 groups of 8 apples, so the total is 5 x 8 = 40 apples.\nStep 2: Chris has 40 apples left.\n#### 40",
+    "final_answer": 13
+  },
+  {
+    "problem": "Taylor has 2 groups of notebooks, with 5 notebooks in each group. Taylor gives away 6 notebooks. How many notebooks does Taylor have left?",
+    "correct_solution": "Step 1: Taylor starts with 2 groups of 5 notebooks, so the total is 2 x 5 = 10 notebooks.\nStep 2: Taylor gives away 6 notebooks, so 10 - 6 = 4 notebooks.\n#### 4",
+    "wrong_solution": "Step 1: Taylor has 2 groups of 5 notebooks, so the total is 2 x 5 = 10 notebooks.\nStep 2: Taylor has 10 notebooks left.\n#### 10",
+    "final_answer": 4
+  },
+  {
+    "problem": "Morgan has 5 groups of coins, with 7 coins in each group. Morgan gives away 26 coins. How many coins does Morgan have left?",
+    "correct_solution": "Step 1: Morgan starts with 5 groups of 7 coins, so the total is 5 x 7 = 35 coins.\nStep 2: Morgan gives away 26 coins, so 35 - 26 = 9 coins.\n#### 9",
+    "wrong_solution": "Step 1: Morgan has 5 groups of 7 coins, so the total is 5 x 7 = 35 coins.\nStep 2: Morgan has 35 coins left.\n#### 35",
+    "final_answer": 9
+  },
+  {
+    "problem": "Sarah has 2 groups of stickers, with 8 stickers in each group. Sarah gives away 5 stickers. How many stickers does Sarah have left?",
+    "correct_solution": "Step 1: Sarah starts with 2 groups of 8 stickers, so the total is 2 x 8 = 16 stickers.\nStep 2: Sarah gives away 5 stickers, so 16 - 5 = 11 stickers.\n#### 11",
+    "wrong_solution": "Step 1: Sarah has 2 groups of 8 stickers, so the total is 2 x 8 = 16 stickers.\nStep 2: Sarah has 16 stickers left.\n#### 16",
+    "final_answer": 11
+  },
+  {
+    "problem": "Taylor has 5 groups of apples, with 11 apples in each group. Taylor gives away 53 apples. How many apples does Taylor have left?",
+    "correct_solution": "Step 1: Taylor starts with 5 groups of 11 apples, so the total is 5 x 11 = 55 apples.\nStep 2: Taylor gives away 53 apples, so 55 - 53 = 2 apples.\n#### 2",
+    "wrong_solution": "Step 1: Taylor has 5 groups of 11 apples, so the total is 5 x 11 = 55 apples.\nStep 2: Taylor has 55 apples left.\n#### 55",
+    "final_answer": 2
+  },
+  {
+    "problem": "Sarah has 6 groups of coins, with 10 coins in each group. Sarah gives away 27 coins. How many coins does Sarah have left?",
+    "correct_solution": "Step 1: Sarah starts with 6 groups of 10 coins, so the total is 6 x 10 = 60 coins.\nStep 2: Sarah gives away 27 coins, so 60 - 27 = 33 coins.\n#### 33",
+    "wrong_solution": "Step 1: Sarah has 6 groups of 10 coins, so the total is 6 x 10 = 60 coins.\nStep 2: Sarah has 60 coins left.\n#### 60",
+    "final_answer": 33
+  },
+  {
+    "problem": "Sarah has 6 groups of boxes of pens, with 8 boxes of pens in each group. Sarah gives away 40 boxes of pens. How many boxes of pens does Sarah have left?",
+    "correct_solution": "Step 1: Sarah starts with 6 groups of 8 boxes of pens, so the total is 6 x 8 = 48 boxes of pens.\nStep 2: Sarah gives away 40 boxes of pens, so 48 - 40 = 8 boxes of pens.\n#### 8",
+    "wrong_solution": "Step 1: Sarah has 6 groups of 8 boxes of pens, so the total is 6 x 8 = 48 boxes of pens.\nStep 2: Sarah has 48 boxes of pens left.\n#### 48",
+    "final_answer": 8
+  },
+  {
+    "problem": "Chris has 5 groups of coins, with 3 coins in each group. Chris gives away 4 coins. How many coins does Chris have left?",
+    "correct_solution": "Step 1: Chris starts with 5 groups of 3 coins, so the total is 5 x 3 = 15 coins.\nStep 2: Chris gives away 4 coins, so 15 - 4 = 11 coins.\n#### 11",
+    "wrong_solution": "Step 1: Chris has 5 groups of 3 coins, so the total is 5 x 3 = 15 coins.\nStep 2: Chris has 15 coins left.\n#### 15",
+    "final_answer": 11
+  },
+  {
+    "problem": "Sam has 3 groups of marbles, with 7 marbles in each group. Sam gives away 15 marbles. How many marbles does Sam have left?",
+    "correct_solution": "Step 1: Sam starts with 3 groups of 7 marbles, so the total is 3 x 7 = 21 marbles.\nStep 2: Sam gives away 15 marbles, so 21 - 15 = 6 marbles.\n#### 6",
+    "wrong_solution": "Step 1: Sam has 3 groups of 7 marbles, so the total is 3 x 7 = 21 marbles.\nStep 2: Sam has 21 marbles left.\n#### 21",
+    "final_answer": 6
+  },
+  {
+    "problem": "Chris has 2 groups of apples, with 12 apples in each group. Chris gives away 8 apples. How many apples does Chris have left?",
+    "correct_solution": "Step 1: Chris starts with 2 groups of 12 apples, so the total is 2 x 12 = 24 apples.\nStep 2: Chris gives away 8 apples, so 24 - 8 = 16 apples.\n#### 16",
+    "wrong_solution": "Step 1: Chris has 2 groups of 12 apples, so the total is 2 x 12 = 24 apples.\nStep 2: Chris has 24 apples left.\n#### 24",
+    "final_answer": 16
+  },
+  {
+    "problem": "Jordan has 6 groups of notebooks, with 3 notebooks in each group. Jordan gives away 14 notebooks. How many notebooks does Jordan have left?",
+    "correct_solution": "Step 1: Jordan starts with 6 groups of 3 notebooks, so the total is 6 x 3 = 18 notebooks.\nStep 2: Jordan gives away 14 notebooks, so 18 - 14 = 4 notebooks.\n#### 4",
+    "wrong_solution": "Step 1: Jordan has 6 groups of 3 notebooks, so the total is 6 x 3 = 18 notebooks.\nStep 2: Jordan has 18 notebooks left.\n#### 18",
+    "final_answer": 4
+  },
+  {
+    "problem": "Alex has 2 groups of boxes of pens, with 10 boxes of pens in each group. Alex gives away 4 boxes of pens. How many boxes of pens does Alex have left?",
+    "correct_solution": "Step 1: Alex starts with 2 groups of 10 boxes of pens, so the total is 2 x 10 = 20 boxes of pens.\nStep 2: Alex gives away 4 boxes of pens, so 20 - 4 = 16 boxes of pens.\n#### 16",
+    "wrong_solution": "Step 1: Alex has 2 groups of 10 boxes of pens, so the total is 2 x 10 = 20 boxes of pens.\nStep 2: Alex has 20 boxes of pens left.\n#### 20",
+    "final_answer": 16
+  },
+  {
+    "problem": "Jordan has 4 groups of stickers, with 11 stickers in each group. Jordan gives away 18 stickers. How many stickers does Jordan have left?",
+    "correct_solution": "Step 1: Jordan starts with 4 groups of 11 stickers, so the total is 4 x 11 = 44 stickers.\nStep 2: Jordan gives away 18 stickers, so 44 - 18 = 26 stickers.\n#### 26",
+    "wrong_solution": "Step 1: Jordan has 4 groups of 11 stickers, so the total is 4 x 11 = 44 stickers.\nStep 2: Jordan has 44 stickers left.\n#### 44",
+    "final_answer": 26
+  },
+  {
+    "problem": "Morgan has 5 groups of stickers, with 6 stickers in each group. Morgan gives away 15 stickers. How many stickers does Morgan have left?",
+    "correct_solution": "Step 1: Morgan starts with 5 groups of 6 stickers, so the total is 5 x 6 = 30 stickers.\nStep 2: Morgan gives away 15 stickers, so 30 - 15 = 15 stickers.\n#### 15",
+    "wrong_solution": "Step 1: Morgan has 5 groups of 6 stickers, so the total is 5 x 6 = 30 stickers.\nStep 2: Morgan has 30 stickers left.\n#### 30",
+    "final_answer": 15
+  },
+  {
+    "problem": "Jordan has 3 groups of stickers, with 12 stickers in each group. Jordan gives away 33 stickers. How many stickers does Jordan have left?",
+    "correct_solution": "Step 1: Jordan starts with 3 groups of 12 stickers, so the total is 3 x 12 = 36 stickers.\nStep 2: Jordan gives away 33 stickers, so 36 - 33 = 3 stickers.\n#### 3",
+    "wrong_solution": "Step 1: Jordan has 3 groups of 12 stickers, so the total is 3 x 12 = 36 stickers.\nStep 2: Jordan has 36 stickers left.\n#### 36",
+    "final_answer": 3
+  },
+  {
+    "problem": "Jordan has 4 groups of apples, with 9 apples in each group. Jordan gives away 22 apples. How many apples does Jordan have left?",
+    "correct_solution": "Step 1: Jordan starts with 4 groups of 9 apples, so the total is 4 x 9 = 36 apples.\nStep 2: Jordan gives away 22 apples, so 36 - 22 = 14 apples.\n#### 14",
+    "wrong_solution": "Step 1: Jordan has 4 groups of 9 apples, so the total is 4 x 9 = 36 apples.\nStep 2: Jordan has 36 apples left.\n#### 36",
+    "final_answer": 14
+  },
+  {
+    "problem": "Sam has 4 groups of apples, with 7 apples in each group. Sam gives away 27 apples. How many apples does Sam have left?",
+    "correct_solution": "Step 1: Sam starts with 4 groups of 7 apples, so the total is 4 x 7 = 28 apples.\nStep 2: Sam gives away 27 apples, so 28 - 27 = 1 apples.\n#### 1",
+    "wrong_solution": "Step 1: Sam has 4 groups of 7 apples, so the total is 4 x 7 = 28 apples.\nStep 2: Sam has 28 apples left.\n#### 28",
+    "final_answer": 1
+  }
+]

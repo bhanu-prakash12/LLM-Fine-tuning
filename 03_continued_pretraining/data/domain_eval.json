@@ -1,0 +1,34 @@
+[
+  {
+    "type": "terminology",
+    "prompt": "What does MVCC stand for and why does PostgreSQL use it?"
+  },
+  {
+    "type": "terminology",
+    "prompt": "What is the purpose of Write-Ahead Logging (WAL)?"
+  },
+  {
+    "type": "qa",
+    "prompt": "Why can a long-running transaction block autovacuum in PostgreSQL?"
+  },
+  {
+    "type": "qa",
+    "prompt": "What problem does Raft's leader election solve?"
+  },
+  {
+    "type": "summarization",
+    "prompt": "Summarize in one sentence why ServiceNow uses table archiving."
+  },
+  {
+    "type": "summarization",
+    "prompt": "Summarize the trade-off between consistency and availability in distributed systems."
+  },
+  {
+    "type": "reasoning",
+    "prompt": "If a ServiceNow instance archives a table but doesn't update integration tests, what's likely to break?"
+  },
+  {
+    "type": "reasoning",
+    "prompt": "Why might using CompletableFuture incorrectly cause thread pool starvation?"
+  }
+]

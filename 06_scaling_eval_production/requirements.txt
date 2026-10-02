@@ -1,0 +1,10 @@
+unsloth
+transformers
+trl
+peft
+bitsandbytes
+torch
+datasets
+rich
+numpy
+vllm
